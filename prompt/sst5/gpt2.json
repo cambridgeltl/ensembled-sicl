@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\n<INPUT>\n",
+  "example_template": "<INPUT>\n<LABEL>",
+  "input_template": "Evaluate the emotional tone of this statement and categorize it as \"terrible,\" \"bad,\" \"neutral,\" \"good,\" or \"great\": <SENTENCE>\n"
+}

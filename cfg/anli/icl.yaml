@@ -1,0 +1,29 @@
+icl_hyper:
+  val_batch_size: 64
+model:
+  predict_with_generate: True
+  generation_max_length: 512
+  generation_num_beams: 1
+eval:
+  eval_strategy: "steps"
+  eval_steps: 250
+  metric: "f1"
+save:
+  save_strategy: "steps"
+  save_steps: 500
+logging:
+  logging_step: 10
+icl_cfg:
+  ic_num: 3
+  order: 'random'
+  ic_pool: 'train'
+  retrieve:
+    train: 'random'
+    other: 'random'
+  retrieve_key: 'sentence'
+peft_config:
+  inference_mode: False
+  r: 8
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules: ["q_proj", "v_proj"]

@@ -1,0 +1,3282 @@
+[
+    {
+        "sentence": "One hundred and fifty years ago, Americans who had gathered to protest the expansion of slavery gave birth to a political Party that would save the Union - the Republican Party.",
+        "label": "Other"
+    },
+    {
+        "sentence": "In 1860, Abraham Lincoln of Illinois carried the Republican banner in the Presidential election and was elected the Party's first President.",
+        "label": "Other"
+    },
+    {
+        "sentence": "He became our nation's greatest leader \u2026 and one of our Party's greatest heroes.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Every day, we strive to fulfill Lincoln's vision: a country united and free, in which all people are guaranteed equal rights and the opportunity to pursue their dreams.",
+        "label": "Other"
+    },
+    {
+        "sentence": "His legacy goes beyond the borders of America.",
+        "label": "Other"
+    },
+    {
+        "sentence": "It can be seen in free governments all over the world.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Lincoln's successors have been united by a common purpose - defending freedom at home and promoting it abroad.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Today, the Republican Party gathers to renominate a man who carries on the best traditions of our Party by carrying the banner of freedom.",
+        "label": "Other"
+    },
+    {
+        "sentence": "The President's leadership has also been bold and visionary at home.",
+        "label": "Other"
+    },
+    {
+        "sentence": "When the President came to office, our economy was faltering, seniors were having trouble paying for their prescription drugs, and schools were stuck in a pattern of low expectations and poor results.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We are proud of the record we offer to the American people.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We have helped America overcome extraordinary challenges.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We are re-shaping our government to meet the demands of the modern world and better serve our citizens.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We are also proud of our agenda for America's future.",
+        "label": "Other"
+    },
+    {
+        "sentence": "President George W. Bush will lead this nation with courage, hope, and resolve over the next four years.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Republicans have always been the Party of fresh ideas and new thinking.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We encourage debate on the major issues of our day, and we will consistently act in accord with the greatest values of our country - freedom and opportunity for all.",
+        "label": "Other"
+    },
+    {
+        "sentence": "This platform makes clear that the American people will have a choice on November 2nd.",
+        "label": "Other"
+    },
+    {
+        "sentence": "A choice between strength and uncertainty.",
+        "label": "Other"
+    },
+    {
+        "sentence": "A choice between results and rhetoric.",
+        "label": "Other"
+    },
+    {
+        "sentence": "A choice between optimism and pessimism.",
+        "label": "Other"
+    },
+    {
+        "sentence": "A choice between opportunity and dependence.",
+        "label": "Other"
+    },
+    {
+        "sentence": "A choice between freedom and fear.",
+        "label": "Other"
+    },
+    {
+        "sentence": "And a choice between moving forward and turning back.",
+        "label": "Other"
+    },
+    {
+        "sentence": "The 2004 Republican Party Platform makes clear: We choose strength.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We choose results.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We choose optimism.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We choose opportunity.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We choose freedom.",
+        "label": "Other"
+    },
+    {
+        "sentence": "A man of courage and compassion, of integrity and action.",
+        "label": "Other"
+    },
+    {
+        "sentence": "One hundred and fifty years after our founding, we Republicans proudly carry forward our time-honored banner of freedom.",
+        "label": "Other"
+    },
+    {
+        "sentence": "And we endorse the bold and visionary leadership of President George W. Bush and Vice President Dick Cheney.",
+        "label": "Other"
+    },
+    {
+        "sentence": "The freedom we enjoy also makes us vulnerable to attack.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We will prohibit retroactive taxation and will not tolerate attempts by federal judges to impose taxes.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We respect the design of the Framers of the Constitution that our nation's capital has a unique status and should remain independent of any individual state.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We come together at a defining moment in the history of our nation \u2013 the nation that led the 20th century, built a thriving middle class, defeated fascism and communism, and provided bountiful opportunity to many.",
+        "label": "Other"
+    },
+    {
+        "sentence": "But today, we are at a crossroads.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Four years ago, Democrats, independents, and many Republicans came together as Americans to move our country forward.",
+        "label": "Other"
+    },
+    {
+        "sentence": "But there is more we need to do, and so we come together again to continue what we started.",
+        "label": "Other"
+    },
+    {
+        "sentence": "This election is not simply a choice between two candidates or two political parties,",
+        "label": "Other"
+    },
+    {
+        "sentence": "but between two fundamentally different paths for our country and our families.",
+        "label": "Other"
+    },
+    {
+        "sentence": "This is not another trivial political argument.",
+        "label": "Other"
+    },
+    {
+        "sentence": "And now we stand at a make-or-break moment, and are faced with a choice between moving forward and falling back.",
+        "label": "Other"
+    },
+    {
+        "sentence": "But there is more to be done.",
+        "label": "Other"
+    },
+    {
+        "sentence": "The problems we\u2019re facing right now have been more than a decade in the making.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Our work is far from done.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We can\u2019t afford to go back or abandon the change we\u2019ve fought so hard for.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We heard powerful testimony before the platform drafting committee about the difference it will make in Americans\u2019 lives when, for the first time, 30 million of our fellow citizens finally gain health insurance.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Out-Building and Out-Innovating the Rest of the World. The American people will make a clear choice.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Our strategy is paying off.",
+        "label": "Other"
+    },
+    {
+        "sentence": "There is more to do.",
+        "label": "Other"
+    },
+    {
+        "sentence": "That\u2019s what we\u2019ve done in this country for more than a century.",
+        "label": "Other"
+    },
+    {
+        "sentence": "burdening law enforcement,",
+        "label": "Other"
+    },
+    {
+        "sentence": "These are not permanent fixes.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Only Congress can provide a permanent, comprehensive solution.",
+        "label": "Other"
+    },
+    {
+        "sentence": "But these are steps in the right direction.",
+        "label": "Other"
+    },
+    {
+        "sentence": "The political status of Puerto Rico remains an issue of overwhelming importance,",
+        "label": "Other"
+    },
+    {
+        "sentence": "but lack of resolution about status has held the island back.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We commit to moving resolution of the status issue forward with the goal of resolving it expeditiously.",
+        "label": "Other"
+    },
+    {
+        "sentence": "If local efforts in Puerto Rico to resolve the status issue do not provide a clear result in the short term, the President should support, and Congress should enact, self-executing legislation that specifies in advance for the people of Puerto Rico a set of clear status options, such as those recommended in the White House Task Force Report on Puerto Rico, which the United States is politically committed to fulfilling.",
+        "label": "Other"
+    },
+    {
+        "sentence": "The economic success of Puerto Rico is intimately linked to a swift resolution of the status question,",
+        "label": "Other"
+    },
+    {
+        "sentence": "We believe that the right to own firearms is subject to reasonable regulation.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We understand the terrible consequences of gun violence; it serves as a reminder that life is fragile, and our time here is limited and precious.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We believe in an honest, open national conversation about firearms.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Cities and metro areas are a vital part of the American community and are incubators of innovation and job creation.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Cities and metro areas represent over 80 percent of this country\u2019s gross domestic product and 80 percent of this country\u2019s population.",
+        "label": "Other"
+    },
+    {
+        "sentence": "When President Obama first took office, four in five cities had already cut services at a time when American people needed them most,",
+        "label": "Other"
+    },
+    {
+        "sentence": "The administration knows one size does not fit all,",
+        "label": "Other"
+    },
+    {
+        "sentence": "But there is still more work to do.",
+        "label": "Other"
+    },
+    {
+        "sentence": "We will end the dangerous cycle of violence, especially youth violence, by continuing to invest in proven community-based law enforcement programs such as the Community Oriented Policing Services program.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Thanks to President Bush's leadership, the skill of the American military, and the commitment of our allies, today there are more than 50 million newly free people in the nations of Afghanistan and Iraq - and America is safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Before entering office, President Bush recognized that our age is a time of opportunity for America - opportunity to translate this moment of influence into decades of peace, prosperity, and liberty.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "That conviction is in the finest traditions of the Republican Party.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "As our platform said in 1984, during the height of Cold War confrontation: \\\"The supreme purpose of our foreign policy must be to maintain our freedom in a peaceful international environment in which the United States and our allies and friends are secure against military threats, and democratic governments are flourishing in a world of increasing prosperity.\u201d",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The reality of 9/11 does not diminish our generation's opportunity to advance the cause of freedom but in fact makes it all the more important that we take up that challenge.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "President Bush has rallied America to its calling - to make the world safer and better.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "This calling is answered by a distinctly American internationalism that reflects the union of our values and our national interests.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Americans everywhere are remaining faithful to that duty.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "By keeping our word and holding firm to our values, this generation is showing the world the power of liberty once again.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We affirm the three commitments of the President's strategy for peace:",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "\u2022 Terrorists long ago declared war on America, and now America has declared war against terrorists.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We are defending the peace by taking the fight to the enemy.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We are confronting terrorists overseas so we do not have to confront them here at home.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We are destroying the leadership of terrorist networks in sudden raids, disrupting their planning and financing, and keeping them on the run.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Month by month, we are shrinking the space in which they can freely operate, by denying them territory and the support of governments.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "\u2022Nations that support terrorism are just as dangerous, and just as guilty, as the perpetrators of terrorism.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Every nation must make a choice to support terror or to support America and our coalition to defeat terror.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We are preserving the peace by working with more than 80 allied nations, as well as international institutions, to isolate and confront terrorists and outlaw regimes.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "America is leading a broad coalition of nations to disrupt proliferation.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We are working with the United Nations, the International Atomic Energy Agency, and other international organizations to take action in our common security.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The global threat of terrorism requires a global response.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "To be effective, that global response requires leadership - and America is leading.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "A global coalition, led by the United States, has dried up sources of terrorist financing.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Thousands of very skilled and determined military personnel remain on the manhunt, going after the remaining killers who hide in cities and caves.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, because of the solidarity of the international coalition in the War on Terror, we are bringing these terrorists to justice, and the American people are safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "\u2022Three years ago, Pakistan was one of the few countries in the world that recognized the Taliban regime.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Al Qaeda was active and recruiting in Pakistan.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Pakistan served as a transit point for al Qaeda terrorists leaving Afghanistan on missions of murder.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The United States could not count on the support of Pakistan's military and civilian leaders - the very people we would need to help shut down al Qaeda operations in that part of the world.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, the governments of the United States and Pakistan are working closely in the fight against terror.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Pakistan has helped capture Khalid Sheik Mohammed, the operational planner behind the September 11 attacks, and other terrorists.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Pakistani forces are rounding up terrorists along their nation's western border.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, because we are working with Pakistani leaders, Pakistan is an ally in the War on Terror, and the American people are safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "\u2022Three years ago, terrorists were well-established in Saudi Arabia.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Inside that country, fundraisers and other facilitators gave al Qaeda financial and logistical help with little scrutiny or opposition.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, after the attacks in Riyadh and elsewhere, the Saudi government knows that al Qaeda is its enemy.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Saudi Arabia is working hard to shut down the facilitators and financial supporters of terrorism.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The government has captured or killed many first-tier leaders of the al Qaeda organization in Saudi Arabia.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, because Saudi Arabia has seen the danger and has joined the War on Terror, the American people are safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "\u2022Three years ago, the ruler of Iraq was a sworn enemy of America who provided safe haven for terrorists, used weapons of mass destruction, and turned his nation into a prison.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Saddam Hussein was not just a dictator; he was a proven mass murderer who refused to account for weapons of mass murder.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "He defied the international community and seventeen United Nations resolutions over the course of twelve years, giving no indication that Iraq would ever disarm and comply with the just demands of the world.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "In 2002 - in Resolution 1441 - the United Nations Security Council unanimously voted that Saddam Hussein had one final chance to comply with his obligations to the international community, or there would be serious consequences.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "As he had for over a decade, he refused to comply.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Every responsible nation recognized this threat, and knew it could not go on forever.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "\u2022Three years ago, the nation of Libya, a longtime supporter of terror, was spending millions to acquire chemical and nuclear weapons.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, thousands of Libya's chemical munitions have been destroyed.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Libya's nuclear equipment that could ultimately have threatened the lives of hundreds of thousands is stored away in the United States.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Today, because the Libyan government saw the seriousness of the civilized world, and correctly judged its own interests, the American people are safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Republicans appreciate the military, financial, and technical assistance provided by the dozens of nations contributing to the reconstruction of Afghanistan and Iraq.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The forces of many nations are working with Afghans to find and defeat Taliban remnants and eliminate al Qaeda terrorists.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We applaud the work of American forces and coalition partners in helping to build the new Afghan national army and to train new Afghan police and border patrol.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Together, Afghan and international forces will maintain the peace, secure Afghanistan's borders, and deny terrorists any foothold in that country.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "As Republicans, we do not equivocate, as others have done, about whether America should have gone to war in Iraq.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The best intelligence available at the time indicated that Saddam Hussein was a threat.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "On that point, President Bush, members of both parties in Congress, and the United Nations agreed.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "While the stockpiles of weapons of mass destruction we expected to find in Iraq have not yet materialized, we have confirmed that Saddam Hussein had the capability to reconstitute his weapons programs and the desire to do so.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Our nation did the right thing, and the American people are now safer because we and our allies ended the brutal dictatorship of Saddam Hussein, halting his decades-long pursuit of chemical, biological, and nuclear weapons.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "President Bush had a choice to make: Trust a madman or defend America.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "He chose defending America.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Supported by brave coalition allies such as the United Kingdom, Australia, Italy, Poland, and Denmark,",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "and displaying courage, skill, and resourcefulness on the battlefield, the men and women of our Armed Forces removed the dictator of Iraq, a declared enemy of America who had the capability and intent to produce weapons of mass murder, and could have passed that capability to terrorists bent on killing Americans.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "That was a risk we could not take.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "America's men and women in uniform have been unrelenting in the performance of their duty.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Our nation has asked much of our military, and there is still much hard work ahead.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We are proud of the sacrifice made by all who have served and are serving, and we are immensely grateful for the sacrifices made by their families and loved ones.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Further, we honor the memories of those who have died in combat serving the cause of freedom.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Defending our homeland with their ultimate sacrifice on behalf of all Americans merits our prayers and our thanksgiving.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "We also commit to continued honor and care for our wounded veterans, and support for all who return home from service.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Together, we look forward to that day when the War on Terror is won and our military can return home, no longer at risk, our world and our country safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Republicans support President Bush's steadfast commitment to the goal of a lasting, democratic peace, in which all nations are free from the threat of sudden terror.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "\u2022There is no negotiation with terrorists.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "No form of therapy or coercion will turn them from their murderous ways.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Only total and complete destruction of terrorism will allow freedom to flourish.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We will extend the peace by supporting the rise of democracy, and the hope and progress that democracy brings, as the alternative to hatred and terror in the broader Middle East.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "In democratic societies, men and women do not swear allegiance to malcontents and murderers; they turn their hearts and labor to building better lives.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Democratic governments do not shelter terrorist camps or attack their neighbors.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "When justice and democracy advance, so does the hope of lasting peace.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Today, Afghanistan is a world away from the nightmare of the Taliban.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Twentyeight million people are free.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "That country has a good and just president.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Boys and girls are being educated.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Women are respected.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Many refugees have returned home to rebuild their country, and a presidential election is scheduled for this fall.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "In Afghanistan and Iraq, our enemies have seen the results of what civilized nations can, and will, do against regimes that harbor, support, and use terrorism to achieve their political goals.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Republicans believe that America and the world must keep our commitments to the people of those countries, who are building the world's newest democracies and counting on the world to help.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Delivering these nations from tyranny has required sacrifice and loss.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We must honor that sacrifice by finishing the great work we have begun.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We applaud President Bush's announcement of U.S. support for five new initiatives that will help the Afghan people achieve the peace, stability, and prosperity they deserve - through support for the development of democracy, educational assistance, cultural exchanges, enhanced bilateral economic ties, and increased economic opportunity for women.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "The road ahead for Afghanistan is still long and difficult.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Yet the Afghan people can know that their country will never be abandoned to terrorists and killers.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "The world and the United States look forward to elections this year in Afghanistan and stand with the Afghan people as partners in their quest for peace and prosperity, stability, and democracy.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Republicans believe that just as our nation relies on our men and women in uniform to fight and win the War on Terror, we also depend on America's diplomats, who serve in the vanguard of our present struggle.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "\u2022help establish stable and democratic governments in nations such as Afghanistan and Iraq that once supported terrorism;",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "\u2022 energetically promote democracy, especially in the Broader Middle East.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We affirm America's role in leading the world toward greater freedom, opportunity, and prosperity.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Republicans support the leadership of President Bush and Vice President Cheney in speaking out honestly about violations of the nonnegotiable demands of human dignity using our voice and vote in international institutions to advance freedom.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Worldwide, at least 600,000 to 800,000 human beings are trafficked across international borders each year.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Of those, it is believed that more than 80 percent are women and girls, and that 70 percent of them were forced into sexual servitude.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We applaud the President for his efforts to rally the international community, including at the United Nations, in combating human trafficking, for his call to the nations of the world to pass laws criminalizing these abhorrent practices, and for working with Republicans in Congress to provide the funds necessary to combat trafficking on the international level.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We also praise President Bush for his efforts at home, where he has tripled the number of traffickers criminally charged and doubled the number of convictions, while supporting the good work of organizations that are rescuing women and children from exploitation.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "\u2022democracy-building activities in Cuba, support for the family members of the political opposition, and support for efforts to help youth, women, and Afro-Cubans take their rightful place in the pro-democracy movement;",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Republicans also commend President Bush and the Republican Congress for helping to provide Africa's children with the advantages of literacy and basic education through the Africa Education Initiative.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "This important initiative will provide teacher training, textbooks, and scholarships for girls to improve primary education on the continent.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Many of Africa's leaders are committed to the spread of democratic institutions and democratic values throughout their continent.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Addressing these transnational threats will challenge China to become more open with information, promote the development of civil society, enhance individual human rights, and end suppression of the media.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "To make that nation accountable to its citizens' needs and aspirations, much work remains to be done.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Only by allowing the Chinese people to think, speak, assemble, and worship freely can China reach its full potential.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "China's leaders will also discover that freedom is indivisible - that social and religious freedoms are also essential to national greatness and national dignity.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Eventually, men and women who are allowed to control their own wealth will insist on controlling their own lives and their own country.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "There are, however, other areas in which we have profound disagreements, including human rights, China's observance of its nonproliferation commitments, and America's commitment to the self-defense of Taiwan under the Taiwan Relations Act.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "The Republican Party is committed to democracy in Burma, and to Nobel Laureate Aung San Suu Kyi and other democratic leaders whose election in 1990 was brutally suppressed and who have been arrested and imprisoned for their belief in freedom and democracy.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Republicans share with her the view that the basic principles of human freedom and dignity are universal.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We are committed to working with our allies in Europe and Asia to maintain a firm and resolute opposition to the military junta in Rangoon.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We know that in this struggle against terrorism free nations have strong allies, of every faith, including millions of people in the Middle East who want to live in freedom.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "As Republicans, we share the President's conviction that if that region grows in democracy, prosperity, and hope, the terrorist movement will lose its sponsors, lose its recruits, and lose the festering grievances that keep terrorists in business.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We affirm our support for President Bush's Forward Strategy of Freedom in the Middle East, as well as the Broader Middle East and North Africa Initiative adopted at the G-8 Summit this year.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Republicans support efforts by the President, Vice President, and Republican Congress to ensure that America takes the side of reformers who are committed to democratic change.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We support doubling the budget for the National Endowment for Democracy and focusing its new work on bringing free elections, free markets, free speech, and free labor unions to the Middle East.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We support the President's expansion of America's public diplomacy efforts, including the use of radio and television to broadcast uncensored information and a message of tolerance in Arabic and Persian to tens of millions of people.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We applaud the commitment represented by the President's Middle East Partnership Initiative, which funds economic, political, and educational reform efforts in the Middle East and champions opportunity for all people of the region, especially women and youth.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We are pleased that the momentum of freedom in the Middle East is beginning to benefit women.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "In Afghanistan, women are preparing to vote in free elections, having participated in the drafting of a new constitution and taken on key responsibilities in a liberated nation.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Under the ruthless grip of the Taliban regime, Afghan girls were barred from getting an education, and women were banned from holding jobs and were publicly whipped when they did not follow the Taliban's rules.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Afghanistan's new constitution affords equal rights to all Afghan citizens, and Afghan women are now being integrated into the economic, social, and political life of their liberated country.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "In Iraq, the systematic use of rape by Saddam Hussein's regime to dishonor families has ended, and the country's interim constitution guarantees all Iraqis the right to vote and makes it illegal to discriminate on the basis of gender, ethnicity, or religion.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "The foundation of our democratic republic is our commitment to conducting free and fair elections.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Unfortunately, in November 2000, too many people believed they were denied the right to vote.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Many African Americans, Hispanics, and others fear they may lose the right to vote because of inaccurate or insecure technology or because of a rolling back in the gains made by the passage of civil rights legislation.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Our national commitment to a voting process that has integrity was underscored in 2002 when the Congress passed and the President signed the Help America Vote Act (HAVA).",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We will continue to do all we can to ensure that every lawful vote counts for all Americans.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We welcome greater participation in all aspects of the political process by Americans residing in Guam, the Virgin Islands, American Samoa, the Northern Marianas, and Puerto Rico.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Since no single approach can meet the needs of those diverse communities, we emphasize respect for their wishes regarding their relationship to the rest of the Union.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We affirm their right to seek the full extension of the Constitution, with all the rights and responsibilities it entails.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We support the right of the United States citizens of Puerto Rico to be admitted to the Union as a fully sovereign state after they freely so determine.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We recognize that Congress has the final authority to define the Constitutionally valid options for Puerto Rico to achieve a permanent non-territorial status with government by consent and full enfranchisement.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "As long as Puerto Rico is not a state, however, the will of its people regarding their political status should be ascertained by means of a general right of referendum or specific referenda sponsored by the United States government.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "This is the essence of what it means to be a patriot: not only to declare our love of this nation, but to show it \u2013by our deeds, our priorities, and the commitments we keep.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "The United States should renew its own commitment to respect for workers\u2019 fundamental human rights, and at the same time strengthen the ILO\u2019s ability to promote workers\u2019 rights abroad through technical assistance and capacity building.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "They come from rogue states allied to terrorists and from rising powers that could challenge both America and the international foundation of liberal democracy.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "President Bush has confronted unprecedented challenges, including a world scarred by terrorism.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President and the American people have risen to the occasion by acting on a bold new statement of America's place and purpose in the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Today, we are filled with hope for the most dramatic advance of liberty in 60 years.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "President Bush's leadership is rooted in the timeless values that have made America a unique and exalted nation: respect for individual rights; a deep commitment to freedom; a desire to serve as a living example of the power of democracy.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President's leadership has achieved successes once deemed impossible to realize in so short a period of time.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "His forward-looking strategy for freedom and peace is making progress in every part of the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President and Republicans in Congress recognize that new threats demand new tools and new methods for defending America and promoting our goals in the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "They have responded swiftly to the challenges of a new era, rather than remaining wedded to outdated theories and fighting battles that ended long ago.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Their accomplishments are the foundation upon which future progress will be built.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The world changed on September 11, 2001, and since that day, under the strong, steady, and visionary leadership of President George W. Bush, Americans have helped make the world not only safer, but better.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "President Bush answered the challenge of September 11, 2001, not only with steadfast resolve, but also with vision, optimism, and unshakable confidence in the will and faith of the American people.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "That is what we all saw on September 14, 2001, when our President stood with the brave workers at Ground Zero and resolutely assured our nation amidst our shock, anger, and grief that while the terrorists had struck first, America would have the last word.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President's most solemn duty is to protect our country.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "George W. Bush has kept that charge.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "To protect our people, President Bush is leading America, staying on the offensive against threats within our own country.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "He worked with Congress to establish the Department of Homeland Security in the most significant reorganization of the federal government since 1947.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "President Bush recognized that to overcome the dangers of our time, America would have to take a new approach in the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "That approach is marked by a determination to challenge new threats, not ignore them, or simply wait for future tragedy - and by a renewed commitment to building a hopeful future in hopeless places, instead of allowing troubled regions to remain in despair and explode in violence.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We are proud of the President's steady leadership in executing this strategy.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We are dealing with terrorist threats as they gather, rather than waiting for them to become imminent dangers.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The results are clear to see.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We condemn inconsistent, ambiguous, and politically expedient statements on that point.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "To the extent such wavering encourages our adversaries to fight harder, our men and women in uniform suffer the consequences.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Their mission is difficult enough.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Uncertainty about America's commitment to that mission makes it immeasurably more difficult.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We applaud President Bush for establishing a visionary and resolute policy - a Forward Strategy of Freedom in the Middle East - to stand with the people of that region as they seek their future in freedom.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Republicans support President Bush's policy of working with every government in the Middle East dedicated to destroying the terrorist networks, while in the longer term expecting a higher standard of reform and democracy from our friends in the region.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We believe that democracy and reform will make those nations stronger and more stable, and make the world more secure by undermining terrorism at its source.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We commend the President's leadership in expanding greatly the resources to prevent proliferation, including record-level U.S. and multilateral resources devoted to the Nunn-Lugar programs and other nonproliferation assistance, including that made available through the creation of the G-8 Global Partnership, which will provide $20 billion to this effort over 10 years.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Republicans share President Bush's understanding that in an age in which the enemies of civilization openly and actively seek the world's most destructive technologies, the United States cannot remain idle while dangers gather.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We applaud President Bush for his success in mobilizing such international cooperation in the War on Terror, which the 9/11 Commission judges to be \\\"on a vastly enlarged scale\\\" and to have expanded dramatically since September 11, 2001.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We also question the credibility of our opponents, who claim to support global alliances while nominating a candidate who has insulted our allies by calling the nations fighting in Iraq \\\"window-dressing\\\" and referring to them as a \\\"coalition of the coerced and the bribed.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "\\\" Directing ugly rhetoric at America's allies in a time of war is irresponsible.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "It does not represent the gratitude and respect the vast majority of Americans have for the men and women from other nations who are risking their lives to make the world safer.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "\u2022streamline the federal government to make it more effective at combating terrorism;",
+        "label": "Political System"
+    },
+    {
+        "sentence": "In many areas, housing prices are higher than they need to be because of regulations that drive up building costs.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Some regulation is of course necessary, and so is sensible zoning.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We urge states and localities to work with local builders and lenders to eliminate unnecessary burdens that price many families out of the market.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We see no role for any federal regulation of homebuilding.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We do foresee a larger role for state and local governments in controlling the federally assisted housing that has been so poorly managed from Washington.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We also encourage the modification of restrictions that inhibit the rehabilitation of existing distressed properties.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "\u2022 Replace the tax code with a system that is simpler, provides more freedom to our citizens, is pro-growth, boosts the economy, and encourages savings and investment.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "A code that provides several definitions of a child is a code that needs to be reformed.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We support legislation requiring a super-majority vote in both houses of Congress to raise taxes.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The alternative minimum tax (AMT) represents a second tax system for individuals.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Its stated goal is to insure that high-income taxpayers pay some amount of income tax.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "But due to the lack of indexing, the broad base and reach of the current AMT will make it apply increasingly to middle-income taxpayers.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Millions of additional taxpayers must complete AMT forms just to determine that they are not subject to the tax.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "As we look at the broader issue of tax reform, we call upon Congress to address this increasingly unfair second tax system on hardworking Americans.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "It is often said that a government program is the closest man has come to achieving immortality.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Government programs are designed with specific purposes, and they ought to be assessed to determine whether they are meeting their goals.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We endorse creating a commission to evaluate discretionary spending on federal agencies and programs to ensure that taxpayer funds are being used for the best, most efficient purposes.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Such a commission would determine whether certain programs are duplicative, wasteful or inefficient, outdated or irrelevant, or failed.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "It would recommend to Congress programs that could be terminated, moved, or restructured to make the government more efficient.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "New government programs are frequently created with little review of programs that already exist to address the same perceived problem.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Over time, numerous programs with overlapping missions and competing agendas grow up alongside one another - wasting money and baffling citizens.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We support President Bush's vision for government reform, which is guided by three principles.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Government should be: citizen-centered, not bureaucracy-centered; results-oriented; and market-based, actively promoting rather than stifling innovation through competition.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President's management agenda is an effective tool for making sure government is active but limited, focusing on results and obtaining them efficiently.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The Republican Party respects and appreciates the private sector as the primary creator of jobs, economic growth, opportunity, and prosperity in our society.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The private sector functions most effectively when laws are transparent and people respect them - this includes people in positions of power.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "When corporate leaders break the law, they should be punished.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We recognize that under the American Constitutional system, education is a state, local, and family responsibility, not a federal obligation.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Since over 90 percent of public school funding is state and local, not federal, it is obvious that state and local governments must assume most of the responsibility to improve the schools, and the role of the federal government must be limited as we return control to parents, teachers, and local school boards.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President has proposed, and the Republican House of Representatives has passed, reforms that would speed compensation to injured patients, reduce health care costs, and improve Americans' access to quality health care.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Shamefully driven by the powerful trial lawyer lobby, Democrat Senators have repeatedly thwarted the efforts of the Republican majority to deliver meaningful medical liability reform.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "They have employed their obstructionist tactics three times in the current Congress alone.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The Republican Party reaffirms its commitment to putting patients and doctors ahead of trial lawyers.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We will continue to battle for litigation reforms that help keep doctors in practice, adopt reasonable caps on non-economic awards in medical malpractice suits, and ensure that Americans have access to quality affordable health care.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "We are proud to meet in a city that enjoyed a new birth of vitality under the leadership of one of America's foremost Republican mayors, Rudy Giuliani.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "President Bush worked with Congress to lower taxes, so Americans can keep more of their own hard-earned money to spend, save, or invest, thereby growing our economy and putting people back to work.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "on expanding opportunities for ownership and investment \u2026",
+        "label": "Economy"
+    },
+    {
+        "sentence": "on making tax relief permanent and ensuring greater energy independence \u2026",
+        "label": "Economy"
+    },
+    {
+        "sentence": "on increasing the affordability and accessibility of health care \u2026",
+        "label": "Economy"
+    },
+    {
+        "sentence": "and on helping workers adjust to a changing economy by offering flexible training options that meet their individual needs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "because a vibrant entrepreneurial spirit will keep our economy strong and provide more opportunities for workers and families.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "because America can compete with anyone, anywhere, thanks to our entrepreneurs and risk-takers who keep us on the cutting edge of technology and commerce.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans applaud President Bush for launching groundbreaking efforts to address the needs and hopes of the world's poor, cutting across traditional boundaries to focus on what works.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We agree with President Bush that the United States must use this moment of opportunity to extend the benefits of freedom across the globe - by actively working to bring the hope of democracy, development, free markets, and free trade to every corner of the world.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans know that a strong world economy enhances our national security by advancing prosperity and freedom in the rest of the world.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Economic growth supported by free trade and free markets creates new jobs and higher incomes.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "It allows people to lift their lives out of poverty, spurs economic and legal reform, enhances the fight against corruption, and reinforces the habits of liberty.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Under Republican leadership, the United States has fostered an environment of economic openness to capitalize on our country's greatest asset in the information age: a vital, innovative society that welcomes creative ideas and adapts to them.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "American companies continue to show the world innovative ways to improve productivity and redraw traditional business models.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Upon this extraordinary foundation, President Bush and the Republican Congress have rebuilt an effective American trade policy.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Rooted in America's political and economic ideals, the Republican blueprint they have implemented promotes open markets and open societies, free trade and the free flow of information, and the development of new ideas and private sectors.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This self-sustaining economic and commercial progress has nurtured the human spirit, the middle class, law, and liberty.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans applaud the renewal of the executive-Congressional partnership on trade matters under Republican leadership.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "After a gap of eight years, the Administration reestablished majority support in the Congress for free and fair trade by passing Trade Promotion Authority and the other market-opening measures for developing countries in the Trade Act of 2002.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We commend the strong record of President Bush and the Republican Congress in using their authority to promote economic growth and economic freedom beyond America's shores, especially through free trade initiatives.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We support the Administration's comprehensive strategy to promote free trade, exemplified by the launch of the Doha negotiation of the World Trade Organization (WTO), regional and sub-regional initiatives such as the Central American Free Trade Agreement, the Free Trade Area of the Americas, and the Middle East Free Trade Area, extension of the African Growth and Opportunity Act, and the conclusion of bilateral free trade agreements with nations such as Australia, Morocco, Chile, and Singapore.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022completing agreements with 12 countries, and currently negotiating with 10 other nations, to reduce trade barriers - together, these 22 nations represent America's third largest export market, with economies totaling $2. 5 trillion in purchasing power;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 opposing unfair manipulation of currency rates by U.S. trading partners; and",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022taking timely action to help domestic industries and workers adjust to foreign competition, including through safeguard actions in support of America's manufacturing sector and trade adjustment assistance for workers;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 incorporating appropriate labor and environmental concerns into U.S. trade negotiations, promoting mutually supportive trade and environmental policies and agreements; and",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022using the International Labor Organization, trade preference programs, and trade talks to improve working conditions in conjunction with freer trade.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We recognize that there is a fundamental connection between trade and development.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Trade policies can help developing countries strengthen property rights, competition, the rule of law, investment, the spread of knowledge, open societies, the efficient allocation of resources, and regional integration - all leading to growth, opportunity, and confidence in developing countries.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We therefore welcome the Republican-led reauthorization in the Trade Act of 2002 of preference programs with the nations of the Caribbean and Andean regions.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans also applaud the strong record of President Bush and the Republican Congress in promoting development and economic growth in Africa as a means to eradicating poverty and encouraging the habits of freedom and enterprise.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The African Growth and Opportunity Act (AGOA) is bringing hundreds of thousands of jobs and investment opportunity to sub-Saharan Africa.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Under President Bush's leadership, Congress has extended AGOA beyond 2008 - an achievement that will help give businesses the confidence to make long-term investments in Africa.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans believe that the United States must continue to work to complete a free trade agreement with the nations of the Southern African Customs Union to create new opportunities for farmers and workers and entrepreneurs all across Africa.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We also applaud the efforts of the Bush Administration to strengthen and broaden capital markets on the continent.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "With the ability to borrow money to buy homes and to start businesses, more Africans will have the tools to achieve their dreams.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans applaud India's move toward greater economic freedom.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We hold a common interest in the free flow of commerce, including through the vital sea lanes of the Indian Ocean.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Bilateral trade between the U.S. and India increased from $15. 9 billion in 2002 to nearly $18 billion in 2003, with U.S. exports to India increasing by 22 percent, the largest increase ever.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "China has discovered that economic freedom leads to national wealth.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Our important bilateral trade relationship has benefited from China's entry into the World Trade Organization, creating export opportunities and jobs for American farmers, workers, and companies.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The power of market principles and the WTO's requirements for transparency and accountability have bolstered openness and the rule of law in China.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans support the commitment of President Bush and Republicans in Congress to ensure that China fulfills its WTO obligations.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "As a fundamental element of the President's strategy, Republicans support the expansion of economic opportunities for the peoples of the Middle East, including through free trade.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We applaud the enactment of free trade agreements with Jordan and Morocco, and the completion of negotiations toward such an agreement with Bahrain.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We support the President's goal of a Middle East Free Trade Area by 2013 and highlight the conclusion of Trade and Investment Framework Agreements with Saudi Arabia, Kuwait, Qatar, the United Arab Emirates, Oman, and Tunisia, among others.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans endorse continued assistance and support for countries that have made peace with Israel - led by Egypt and Jordan.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We applaud the actions of President Bush and the Republican Congress to provide both nations with new grants and loan guarantees to promote economic reform measures.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "George W. Bush ran for President on a promise of lower taxes, so that people could keep more of the income they earn.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "He fulfilled that pledge.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The fundamental premise of tax relief is that everyone who pays income taxes should see their income taxes reduced.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The President offered a plan to lower all tax rates.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans in Congress strongly supported the President's plan.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In 2001, President Bush signed historic tax relief into law.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This year, 43 million families with children are receiving an average tax cut of over $2,000.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Created a new, low 10 percent income tax bracket;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Lowered individual income tax rates for all Americans who pay income taxes;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Doubled the child tax credit to $1,000;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Reduced the marriage penalty for 33 million married couples;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Expanded education IRAs, made pre-paid tuition plans tax-free, and created a deduction for higher education expenses;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Phased-out the death tax that penalizes family-owned small businesses and farms;",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Simplified and expanded IRAs and 401(k)s so workers can save more for their retirement; and",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Increased the adoption tax credit and the child care tax credit.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "President Bush and the Republican Congress built on the reforms of 2001 by passing the Jobs and Growth Act of 2003.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This legislation assisted our economic recovery by accelerating the 2001 tax relief and encouraging investment.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The tax rates on capital gains and dividend income were reduced to the same, lower rate of 15 percent to encourage saving and investment.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Seven million senior citizens who rely on dividend income are benefiting from this tax relief.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The law also quadrupled small business expensing so entrepreneurs can deduct from their taxes the first $100,000 of investment.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Because of the 2001 and 2003 tax cuts, 111 million families are receiving an average tax cut of over $1,500 and the overall tax burden on working Americans is the lowest it has been in 37 years.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We believe that good government is based on a system of limited taxes and spending.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Furthermore, we believe that the federal government should be limited and restricted to the functions mandated by the United States Constitution.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The taxation system should not be used to redistribute wealth or fund ever-increasing entitlements and social programs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Many Democrats, however, believe the government has a right to claim the money earned by working Americans.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "They fight any attempt to return the balance of power from Washington to individual families and businesses.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Furthermore, the slim majority held by Republicans in the Senate and the rules of the Senate make it difficult to pass permanent tax relief.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "All of the tax relief provided over the last four years will be eliminated in the next six years if Congress does not take action to make the relief permanent.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Our Party endorses the President's proposals to make tax relief permanent, so that families and businesses can plan for the future with confidence.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Anything less will result in a significant tax increase on Americans.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Making the tax cuts permanent is a crucial first step toward expanding ownership and ensuring that America turns economic growth into lasting prosperity.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The only way to accomplish this goal is to elect a solid Republican majority to both houses of Congress.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We look forward to a new Congress with larger Republican majorities working with President Bush to ensure that taxes do not go back up on American families.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "More than half of all Americans save and invest in private markets.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We want even more people to build assets that they own and can use to meet a variety of needs over the course of their lives.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In the past few years President Bush and Congressional Republicans have passed into law a variety of measures to improve, simplify, expand, and protect retirement savings in IRAs, 401(k)s, and other retirement plans.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Increased the amount you can save each year tax-free.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Made it easier to take your retirement plan from one job to the next.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Allowed women who take time off from work to start a family to catch up on their missed retirement plan contributions.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Required more disclosure for employer sponsored retirement plans and required that rules apply to both executives and rank-and-file employees.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans will not rest on this success.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We will build upon it by promoting policies that encourage workers to save.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We support the President's proposal to create a new Lifetime Savings Account (LSA) so workers can save for a variety of needs, to consolidate the three types of current law IRAs into a single Retirement Savings Account (RSA), and to consolidate numerous employer-based retirement plans into a single Employer Retirement Savings Account (ERSA).",
+        "label": "Economy"
+    },
+    {
+        "sentence": "These account options will promote personal saving, which opens up more opportunities for the saver and increases private capital that is available to entrepreneurs for investing, growing the economy, and creating jobs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Assets in personal accounts should belong to each individual.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Every American should have the opportunity to build a nest egg for the future and pass along that money to their children or grandchildren, who could use the funds to pay for college, buy a home, start a small business, or begin saving for their own retirement.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Choice is the key.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Any new options for retirement security should be voluntary, so workers can choose to remain in the current system or opt for something different.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This is a challenge that demands leadership.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "President Bush has shown this leadership by proposing a bold alternative to the collapse of Social Security.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Along with Americans everywhere, we pledge to join him in this endeavor of a lifetime.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Homeownership is central to the American dream, and Republicans want to make it a reality for everyone.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "That starts with access to capital for entrepreneurs and access to credit for consumers.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Both have improved immensely in the past four years, resulting in record levels of homeownership.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The Self-Help Homeownership Opportunities Program helps low-income families purchase a home.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The most significant barrier to homeownership is the down payment.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We support efforts to reduce that barrier, like the American Dream Downpayment Act and Zero Downpayment Mortgages.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The President and Congress have taken action to provide counseling and education to help first-time homebuyers navigate the process of buying a home.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The Administration has also taken steps to alert people to the dangers of predatory lending, in an effort to help Americans maintain a positive credit history.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Affordable housing is in the national interest.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "That is why the mortgage interest deduction for primary residences was put into the federal tax code and why tax reform of any kind should continue to encourage homeownership.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We support efforts to enact the Single-Family Affordable Housing Tax Credit.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "At the same time, a balanced national housing policy must recognize that decent housing includes apartments, and addresses the needs of all citizens, including renters.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Small businesses are the most potent force of economic growth and job creation in America.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "They generate more than half of our nation's gross domestic product and create seven out of ten new private-sector jobs in America.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Small businesses have been the primary vehicles of economic advance for American women.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans pledged in 2000 to lower tax rates for small business owners and entrepreneurs, end the death tax, cut red tape, reform our liability system, and aggressively expand overseas markets for our goods and services.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Though more work remains to be done, including reauthorizing the Small Business Administration, President Bush and Congressional Republicans have made good on each of those commitments.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Reduced taxes on 25 million small business owners and entrepreneurs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Much of the tax relief came from reductions in individual income tax rates.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Ninety percent of businesses pay income taxes at individual rates, not corporate rates.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This includes hundreds of thousands of successful small business owners and entrepreneurs who pay taxes in the top tax rates and whose taxes would increase considerably under John Kerry's economic plan.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Lowered the tax burden on investment in new equipment by quadrupling the limit on small business expensing from $25,000 to $100,000 and allowing additional first-year depreciation of that equipment.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Phased-out the death tax that punishes family-owned small businesses and family farms.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Increased federal contracts to small businesses.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In 2003, small businesses received the largest percentage ever of all federal contracts.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In addition, President Bush developed a strategy to reverse the trend toward bundling of contracts, a practice that has denied small businesses the ability to compete for billions of procurement dollars.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Reduced paperwork.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "For example, 22. 4 million small business taxpayers now have fewer lines to fill out on tax forms, freeing up an estimated 9. 5 million hours previously used for paperwork every year.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Enacted Health Savings Accounts, which allow individuals to save and pay for their health care tax-free.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Combined with a catastrophic health plan, they are an easier and less costly way for small businesses to provide health insurance for their employees.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Enacted common sense liability protections in the Terrorism Risk Insurance and SAFETY Acts.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Negotiated agreements to reduce trade barriers and expand access to foreign markets.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "An area in special need of more work is liability reform.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Frivolous lawsuits put more money in the pockets of trial lawyers and leave businesses with less money to create jobs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "They raise health care costs on small businesses, often preventing them from offering health insurance to their employees.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We support efforts by President Bush, Congressional Republicans, and Republican governors to curb the burden of frivolous lawsuits.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We recognize that the Democrats' nominees, one of whom made his fortune as a trial lawyer, are beholden to the interests of the trial lawyer lobby and offer no hope for reform of this badly broken system.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Health Savings Accounts allow people to own and control their health care.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "They are an important step toward creating a system of consumer-driven health care that puts patients and doctors at the center of decision-making - not government bureaucrats.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "When consumers make decisions about health care, individuals control their health care dollars and health care decisions.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Health Savings Accounts allow people to save, earn interest, and spend tax free on their health care needs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "HSAs are combined with a lowpremium, high-deductible health insurance plan to offer flexible, affordable insurance options for small businesses and individuals.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Health Savings Accounts are now available to all Americans thanks to the efforts of President Bush and the Republican Congress.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The next step, which our Party endorses, is to extend tax deductibility to the insurance premiums associated with HSAs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We also support efforts to expand the use of Health Savings Accounts to help control health care costs and give individuals more power in making important medical decisions.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The core of ownership in America has always been ownership of private property that a citizen can call his or her own.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans respect this tradition.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "For reasons both Constitutional and environmental, therefore, President Bush and the Republican Congress will safeguard private property rights by enforcing the Takings Clause of the Fifth Amendment and by providing just compensation whenever private property is needed to achieve a compelling public purpose.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We oppose efforts to diminish the rights of private citizens to the land they own.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "America's economy is the strongest in the world, and it is getting stronger thanks to lower taxes, fewer burdensome regulations, and a focus on encouraging investment.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Our goal is to make sure America remains the strongest economy in a dynamic world and to make it possible for every American who wants a job to find one.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We must ensure that workers are equipped with the education and training to succeed in the best jobs of the 21st century, and we must encourage the strong spirit of innovation that has put America at the forefront of new technology industries.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Future prosperity demands that we have affordable, cleaner, more independent energy supplies and affordable, high-quality health care.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We must maintain our commitment to free and fair trade, lower taxes, limited regulation, and a limited, efficient government that keeps up with the new realities of a changing world.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "By keeping the costs of running a business low and ensuring that our workers have the skills to compete in a dynamic global economy, President Bush and the Republican Congress will continue to ensure that America is the best nation in the world in which to create jobs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In 2001, President Bush and the Republican Congress worked together to pass the most sweeping tax relief in a generation.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "By letting families, workers, and small business owners keep more of the money they earn, they helped bring America from recession to a steadily expanding economy.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Despite enduring the after-effects of the stock market's irrational exuberance in the late 1990s, terrorist attacks on our nation, and corporate scandals that bubbled to the surface after years of inattention, the U.S. economy has now grown for 33 straight months.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "And unlike four years ago, there are no signs of an end to the current economic growth.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The proof is in the numbers, and the numbers prove our economy is strong and growing stronger.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Over the past year, gross domestic product (GDP) grew at one of the fastest rates in two decades.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Without the President's tax relief, real GDP would have been more than 3 percent lower and 2 million fewer Americans would have been working at the end of last year.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Since last August, 1. 5 million new jobs have been created.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022The unemployment rate has fallen from 6. 3 to 5. 5 percent, which is below the average of the 1970s, 1980s, and 1990s.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Employment over the last year is up in 46 of the 50 states, and the unemployment rate is down in 49 of the 50 states.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In addition to the official figures, household surveys show that hundreds of thousands of new jobs have been created, unreported, through selfemployment and by small businesses.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Real after-tax incomes are up by 9. 6 percent since December 2000.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Homeownership rates are at record levels - seven out of ten American families own their own home today.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Consumer confidence is up from the levels seen at this time last year.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Inflation remains low by historical standards, as do mortgage rates.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We know what brought us this success - the hard work of the American people and the Republican commitment to low taxes.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Now we must keep our economy on the right path by preventing taxes on families from going up next year, making the tax relief of the last four years permanent, and reforming the tax code to make it simpler, fairer, and more growth-oriented.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "In 2000 we rightly declared: \\\"The federal tax code is dysfunctional.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "It penalizes hard work, marriage, thrift, and success - the very factors that are the foundations for lasting prosperity.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\\\" As noted earlier, from reducing marginal income tax rates to phasing out the death tax, President Bush and the Republican Congress have made great strides in addressing each of these problems.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "However, it is equally obvious that much more remains to be done to reform the federal tax code.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Instead of being simple, the current tax system is needlessly complex, making it susceptible to abusive tax avoidance schemes.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Instead of being efficient, it punishes hard work, discourages savings and investment, and hinders the international competitiveness of U.S. firms.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Instead of being fair, it is out of line with our basic values and undermines our sense of fairness.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Instead of being predictable, it is highly unpredictable and uncertain.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Tax reform is necessary to achieve the simplicity, efficiency, fairness, and predictability that the American people deserve, and to give all Americans the freedom to determine their own spending priorities.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022Make the tax relief of 2001 and 2003 permanent.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The various expiring tax relief provisions, ranging from 2005 to 2011, make the tax code confusing for everybody and limits the ability of workers, families, and businesses to plan for the future with confidence.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Nowhere is this more apparent than with the death tax, which is reduced now, disappears in 2010, and then comes fully back to life in 2011.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "\u2022 Build on efforts to develop a tax code that does not punish taxpayers for saving.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "To make sure the private sector has the capital it needs to invest, grow the economy, and expand prosperity, our leaders must make sure that the growth of the federal government remains in check.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The challenges America has faced over the last four years have created an unwelcome but manageable budget deficit.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "These deficits are due to a number of factors: the stock market downturn that began in 2000 and the subsequent recession that President Bush inherited when he took office; the terrorist attacks on America and the necessary spending for homeland security and the War on Terror those attacks precipitated; and the crisis in confidence produced by corporate scandals that were years in the making.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "It is important to view the size of the deficit in relation to the size of the nation's economy.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "By that measure, today's deficit, although unwelcome, is well within historical ranges.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "A deficit that is 3. 8 percent of GDP, as is now projected for this year, would be smaller than the deficits in nine of the last 25 years, and far below the peak deficit figure of 6 percent of GDP reached in 1983.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This deficit is also in line with what other industrialized nations are facing today.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The U. S. deficit matches the average deficit within the Organization for Economic Cooperation and Development, and is below the levels of France, Germany, and Japan.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Much more importantly, because the President and Congress enacted pro-growth economic policies, the deficit is headed strongly in the right direction.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Next year's projected deficit, at 2. 7 percent of GDP, would be smaller than those in 14 of the last 25 years.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "As Republicans in Congress work with the President to restrain spending and strengthen economic growth, the federal deficit will fall to 1. 5 percent of the nation's economic output in 2009 - well below the 2. 2 percent average of the last 40 years.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The events that brought us into deficit are not completely behind us.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The War on Terror goes on.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "The recession has passed, but some industries and workers are still feeling its effects.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans are committed to winning the War on Terror and will continue to implement policies that promote jobs, investment, and growth in every region of the country and every sector of our economy.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Let us be clear: If government is to meet the most pressing needs of our time and still maintain fiscal discipline, government leaders must set priorities and stick with them.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "President Bush has shown genuine leadership in doing just that.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "He worked with Congress to strengthen Medicare by adding a prescription drug benefit and giving seniors more choices to meet their individual health care needs.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "And the President worked with Congress to pass historic education reforms to ensure that every child can read.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Today, higher standards and stronger accountability are getting results in classrooms across America.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "on preparing students for success in life by bringing the benefits of education reform to high schools \u2026",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Ownership gives citizens a vital stake in their communities and their country.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "By expanding ownership, we will help turn economic growth into lasting prosperity.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "As Republicans, we trust people to make decisions about how to spend, save, and invest their own money.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We want individuals to own and control their income.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We want people to have a tangible asset that they can build and rely on, making their own choices and directing their own future.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Ownership should not be the preserve of the wealthy or the privileged.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "As Republicans who believe in the power of ownership to create better lives, we want more people to own a home.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We want more people to own and build small businesses.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We want more people to own and control their health care.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We want more people to own personal retirement accounts.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "With President Bush's leadership we have taken great strides in making the dream of ownership available to millions of Americans, and in the next four years the President and Republicans in Congress will unlock the door to ownership for many more.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Social Security needs to be strengthened and enhanced for our children and grandchildren.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022Anyone now receiving Social Security, or close to being eligible for it, is guaranteed that their benefits will not be cut and their taxes will not be raised.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Social Security is a promise made by this country to its citizens and Republicans will keep that promise.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022Key changes to Social Security should merit bipartisan agreement so all improvements are a win for the American people rather than a political victory for any one party.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022Personal retirement accounts must be the cornerstone of strengthening and enhancing Social Security.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Each of today's workers should be free to direct a portion of their payroll taxes to personal investments for their retirement.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "It is crucial that individuals be offered a variety of investment alternatives and that detailed information be provided to each participant to help them judge the risks and benefits of each plan.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Today's financial markets offer a variety of investment options, including some that guarantee a rate of return higher than the current Social Security system with no risk to the investor.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022 Young people deserve to know their Social Security will in fact be there when they retire, just as we have guaranteed it to their grandparents and parents today.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "This new generation of American workers deserves to have ownership of their future.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "They must have choices.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Individual ownership of voluntary personal retirement accounts for today's workers will make Social Security more equitable, but, just as importantly, will put the system on sure financial footing.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Fifty years ago there were 16 workers to support every one beneficiary of Social Security.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Today there are just 3. 3 workers for each beneficiary.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "By the time young men and women who are entering the workforce today turn 65, there will be only two workers for each beneficiary.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Doing nothing is not an option.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We must keep faith with both the past and the future by strengthening and enhancing Social Security.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We believe that everyone who participates in the Social Security program should use legal and accurate identification.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "President Bush formed a bipartisan commission that recommended three models for reform and many Republicans in Congress have exhibited leadership in sponsoring six different bills.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Non-partisan analysis of these proposals shows that each strengthens Social Security and that each shares a common characteristic: giving workers the option of supplementing Social Security with personal retirement accounts that they own.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Our Party supports the efforts of President Bush and Congressional Republicans to enact legislation during the next term.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "As one of his first acts in office, President Bush released the National Energy Policy (NEP) report, a comprehensive plan to reduce America's dependence on foreign sources of energy by increasing domestic energy production and supporting conservation and alternative and renewable energy.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "The President's proposal would make America more energy independent while creating jobs and promoting economic growth.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "It includes over 100 recommendations, nearly half of which addressed renewable energy, energy efficiency, and conservation.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "President Bush has implemented nearly every nonlegislative recommendation outlined in the NEP report.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Republicans in the House and Senate have stood solidly with the President.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022Republicans will continue to support renewable energy through extension of the production tax credit for wind and biomass, as well as efforts to expand the use of biodiesel and ethanol, which can reduce America's dependence on foreign oil while increasing revenues to farmers.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Public education, access for every child to an excellent education, is a foundation of a free, civil society.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "The children who enter schools today will leave as young adults, full of dreams for the future.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "They will soon become the scientists and researchers who make great discoveries, the engineers and mathematicians who build our communities, the doctors and nurses who heal and comfort the sick, the teachers who will educate the next generation, the leaders who transform government, the poets, artists, and writers who entertain and inspire.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Every child deserves a first-rate education, because every child holds infinite potential, and we should give them every opportunity to reach it.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We believe there is an inseparable link between a vibrant economy and a highquality education system.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "It takes a vibrant economy to provide the tax base necessary to fund a high-quality education system.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Equally, it takes a quality education system to provide the highly skilled labor force necessary to meet the demands of a growing, vibrant economy.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Strong schools will also produce a workforce with the skills to compete in the 21st century economy.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We must have citizens capable of conceiving the next generation of new technologies and innovations, mastering the art of analyzing problems and crafting their solutions.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Education is the key to prosperity and fulfillment - the foundation on which all other success is built.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "On just his fourth day in office, President Bush presented the No Child Left Behind initiative to Congress.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Less than a year later, he secured an overwhelming bipartisan majority to pass the No Child Left Behind Act of 2001.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "It was the most significant overhaul of federal education policy since 1965.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "And it became a promise kept to parents, students, teachers, and every American.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022 Ensuring stronger accountability for student achievement, for all children",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022 Encouraging education methods that work",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022 Providing flexibility and control to states and local communities",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "\u2022Giving parents more information about the quality of their children's schools and offering them choices and resources for their children's education",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Results are now measured on the basis of student achievement rather than simply dollars spent.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Students are benefiting from education reforms that set high academic standards, encourage strong parental involvement, recognize the role of excellent teachers, foster safe and orderly classrooms, and establish a commitment to teaching the basics of reading and math.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "With this success, Republicans have transformed the debate on education.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We are the Party parents can trust to improve schools and provide opportunity for all children, in every neighborhood, regardless of background or income.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We are the party willing to embrace new ideas and put them to the test.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Americans agree that the status quo in education is no longer acceptable.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "We have challenged low expectations and poor achievement, and we are seeing results.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Now is the time to extend the progress we've made.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "The No Child Left Behind Act is already showing gains in elementary school, as student achievement scores for fourth- and eighth-graders have increased in classrooms across America.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Our next mission is to take the reforms that we know are working in elementary schools and apply them up and down the education ladder - starting in early childhood education, so that children enter school ready to learn, and finishing in high school, so that every young adult who graduates has the skills he or she needs to succeed in the 21st century economy.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "When America was struck by terrorists on September 11, 2001, President Bush immediately realized that it was an act of war, not just a crime.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Working with Congress, the President drew up plans to take the fight to the enemy, vowing to bring the terrorists to justice, or bring justice to the terrorists.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "And together, the President and Congress took steps to help the wounded, honor the dead, and secure our homeland.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our plans focus on ensuring that America remains safe, terrorists are defeated, and democracy flourishes in the world \u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "on promoting works of compassion and strengthening our greatest values \u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Winning the War on Terror \u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "because our government's most solemn duty is to keep its citizens safe.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "because our children deserve to grow up in an America in which all their hopes and dreams can come true.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "because we respect the family's role as a touchstone of stability and strength in an everchanging world.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The President continues to lead a steady, confident, systematic campaign to defend America against the dangers of our time.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We are going after terrorists wherever they plot and plan and hide, changing the old course of pinprick strikes that did little to get at the root of terrorism.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We eliminated many of al Qaeda's key leaders and put the world on notice that nations that train, harbor, or finance terrorists are just as guilty as the terrorists themselves.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We will not allow the world's most dangerous regimes to possess the world's most dangerous weapons.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our message is getting through, as indicated by Libya's leader, who decided to turn over his weapons of mass destruction and cooperate with the international community.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, because America has acted, and because America has led, the forces of terror and tyranny have suffered defeat after defeat, and America and the world are safer.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "On September 11, 2001, we saw the cruelty of the terrorists, and we glimpsed the future they intend for us.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They intend to strike the United States to the limits of their power.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They seek weapons of mass destruction to kill Americans on an even greater scale.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "This danger is increased when outlaw regimes build or acquire weapons of mass destruction and maintain ties to terrorist groups.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "On September 11, 2001, we saw the spirit of courage and optimism of the American people - that greatest assurance of the ultimate triumph of our cause.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Courage and optimism led colleagues to help each other in escaping from collapsing buildings.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Courage and optimism led policemen, firefighters, emergency medical professionals, public works employees, our men and women in uniform, and selfless volunteers to run into burning buildings to save others and undertake a mammoth rescue and recovery effort.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Courage and optimism led the passengers on Flight 93 to rush their murderers to save lives on the ground.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Courage and optimism led America's parents and teachers to battle their own fears to keep children calm and safe.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "In those and countless other acts of heroism on that day, and many times since, terrorists have learned that Americans will not be intimidated.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We will fight them with everything we have - and we will prevail.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The PATRIOT Act is being used to track terrorist activity and to break up terror cells.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Now, the FBI can use tools that have been long available to fight organized crime and drug trafficking, but could not be used in the past to fight terrorism.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Intelligence and law enforcement officials are sharing information as never before.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The President transformed the mission of the FBI to focus first and foremost on preventing terrorism.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Every element of America's homeland security plan is critical, because the terrorists are ruthless and resourceful - and we know they are preparing to attack us again.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "It is not possible to guarantee perfect security in our vast, free nation.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "But the President and Vice President, along with many fine professionals in intelligence, homeland security, law enforcement, and the military are working tirelessly to protect the country.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We are grateful to them all.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Three years ago, our nation was not on a war footing against al Qaeda - even though Osama bin Laden declared war on the United States in 1996 and again in 1998.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The al Qaeda leadership believed itself to be impervious to any American response, continued to raise funds practically without restriction, and operated in a world in which there was no cohesive global approach to fighting terror.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, al Qaeda has been wounded, having lost many of its known leaders and most of its important sanctuaries.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "America and its allies and friends have broken al Qaeda cells here in the United States and overseas.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Three years ago, al Qaeda's secure home base was in Afghanistan, a country ruled by the Taliban, one of the most backward and brutal regimes of modern history.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Schooling was denied to girls.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Women were whipped and executed in public.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Millions lived in fear.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "With protection from the Taliban, al Qaeda and its associates trained, indoctrinated, and sent forth thousands of killers to set up terror cells in dozens of countries, including our own.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The terror camps are closed and the Afghan government is helping us to hunt the Taliban and terrorists in remote regions.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, because we acted to liberate Afghanistan, a threat has been removed, and the American people are safer.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, the dictator who caused decades of death and turmoil, who twice invaded his neighbors, who harbored terrorist leaders, who used chemical weapons on innocent men, women, and children, finally stands before the bar of justice.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Iraq, which once had the worst government in the Middle East, is now becoming an example of reform to the region.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Iraqi security forces are fighting beside coalition troops to defeat the terrorists and foreign fighters who threaten their nation and the world.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, because America and our coalition helped to end the violent regime of Saddam Hussein, and because we are helping to raise a peaceful democracy in its place, 25 million Iraqis are free and the American people are safer.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Three years ago, a private weapons proliferation network was doing business around the world.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "This network, operated by the Pakistani nuclear scientist A.Q. Khan, was selling nuclear plans and equipment to the highest bidder, and found willing buyers in places like Libya, Iran, and North Korea.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, the A.Q. Khan network is out of business.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We have ended one of the most dangerous sources of proliferation in the world, and the American people are safer.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Republicans applaud President Bush, Vice President Cheney, and those who have supported them in the Congress for the steady leadership that led to these successes.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "America must stay the course.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The success of free and stable governments in Afghanistan, Iraq, and elsewhere will further shrink the space in which terrorists can operate.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "As the entire region sees the promise of freedom in its midst, the terrorist ideology will become more and more irrelevant, until that day when it is viewed with contempt or ignored altogether.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "In Iraq, America is serving the cause of liberty, peace, and our own security.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "America accepted a difficult task in Iraq.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We know that for all these reasons, we will finish that task.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Republicans agree with the Bush Administration that there is no greater danger to our people than the nexus of terrorists and weapons of mass destruction (WMD).",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "That judgment is shared by leading allies and friends.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "As President Bush and his fellow G-8 leaders declared in 2003, the spread of weapons of mass destruction and international terrorism constitute \\\"the pre-eminent threat to international security.\u201d",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The risks posed by this dangerous relationship cannot be contained or deterred by traditional means.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022ensure that international agreements against the proliferation of WMD are observed and enforced;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 detect, disrupt, and block the spread of dangerous weapons and technology;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022confront emerging threats from any person or state before those threats have fully materialized;/ and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022creating the Container Security Initiative to screen cargo destined for the United States; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 tighten security at entry points like ports, airports, and borders;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022strengthen protections at critical infrastructure landmarks such as power and water plants; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 reduce the threats of bioterrorism and cyberterrorism.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Through all their actions, President Bush and Congress have been careful to protect the rights and liberties that make America a beacon of freedom and justice.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The President and Congress have also provided unprecedented resources to support local first responders.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The men and women of the Department of Homeland Security, and the first responders at the state and local level with whom they have partnered, vigilantly safeguard the security of America each and every day.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They have moved swiftly but thoughtfully to direct enhanced resources to counter the dangers of the new and shifting threats we face, and they have proved themselves equal to the task.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 Coast Guard in protecting our shores;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 Customs and Border Patrol who police our borders;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Air marshals and baggage screeners of the Transportation Security Administration in safeguarding our airports and our skies;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Immigrations and Customs Enforcement in ensuring that the identity of foreign citizens who enter our borders is known;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Directorate of Information Analysis and Infrastructure Protection and the Secret Service for partnering with private industry to protect millions of Americans by enhancing security at chemical plants and other critical infrastructure;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Federal Bureau of Investigation in applying enhanced law enforcement tools provided by the PATRIOT Act to track down terrorists and thwart their plots before they can be executed to murderous effect;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Centers for Disease Control and the National Institutes of Health for their work in safeguarding the nation from biological attacks; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Law enforcement officers, firefighters, EMS personnel, and other first responders in state and local jurisdictions throughout the country who have diligently employed increased federal resources to train and prepare for the prevention and mitigation of future terrorist attacks.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "These dedicated men and women, the nation's last line of defense and first hope in response, give their utmost every day to keep us safe.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Just as the Cold War prompted a massive reorganization of the federal government's foreign policy apparatus, the War on Terror demanded a thorough reorganization of America's domestic preparedness agencies.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "President Bush led this effort with a plan to merge 22 separate government entities into the new Department of Homeland Security, a cohesive department with the primary mission of keeping America safe.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "After the American people returned control of the Senate to Republicans in the 2002 mid-term elections, Congress passed legislation enacting the President's plan.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Further, to ensure that America's law enforcement, intelligence, and first responders have the resources they need to protect America, President Bush and Congress have nearly tripled homeland security funding since 2001.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We endorse the efforts of President Bush and Republicans in Congress to keep our homeland safe by taking action on multiple fronts, all aimed at stopping terrorists before they strike.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 The FBI has been refocused to track down terrorists before they attack.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 The Treasury Department is now leading the effort to find and eliminate sources of terrorist financing around the world.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Since September 11, 2001, the United States and our allies have designated 345 terrorist-related entities and frozen more than $139 million in terrorist assets in more than 1,400 accounts worldwide.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022The President signed into law the PATRIOT Act, which gives law enforcement and intelligence agents the same tools to fight terror that have long been available to fight organized crime and drug trafficking.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The PATRIOT Act also made it possible for law enforcement and intelligence agents to share information and coordinate efforts to prevent terrorism.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The 9/11 Commission rightly praised the PATRIOT Act's role in improving information sharing.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022Since the PATRIOT Act was passed, four terrorist cells have been broken up inside the United States and more than 189 individuals have been convicted or pled guilty to terrorism-related offenses.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "President Bush knows that America's firefighters, local law enforcement, and other first responders play a critical role in protecting the homeland.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Hundreds of firefighters and police officers gave their lives to help their fellow citizens on September 11, 2001, and should another attack ever come, they will be first at the scene again.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They must have the tools they need to perform their jobs as safely and effectively as possible.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "To this end, the President and Congress have massively increased spending for our nation's first responders.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They have worked with governors, mayors, and tribal and local leaders to implement an integrated and federally supported approach to protecting communities.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 States and localities have received more than $13 billion since 2001.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 Assistance to Firefighter Grants are up 400 percent since 2001.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022State Domestic Preparedness funding is up more than 2,600 percent since 2001.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "President Bush has taken steps to send money to the areas that are most at risk of terrorist attack, and instituted measures to speed the money to the first responders on the ground.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "President Bush has overhauled and greatly enhanced security at the nation's airports.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our infrastructure to protect airplanes, passengers, crews, and cargo from terrorist acts has never been stronger than it is today.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Cockpit doors have been hardened, more than 5,000 air marshals and 45,000 federal screeners have been hired, new screening technology has been developed, and 100 percent of commercial air passengers and checked bags are now screened.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "As tagging and tracking citizens is inconsistent with American freedom, we oppose the creation of a national identification card or system.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Proposed funding for port security in 2005 represents a 600 percent increase since President Bush came to office.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 all cargo is now screened by customs agents;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022screening takes place in foreign ports, well before potentially dangerous cargo ever reaches our shores; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 all high-risk cargo is physically inspected.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our nation has been enriched by immigrants seeking a better life.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "In many cases, immigrants of the past fled violence and oppression searching for peace and freedom.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "All suffered and sacrificed but hoped for a better future for their children in America.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our nation has been enriched by their determination, energy, and diversity.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Ensuring the integrity of our borders is vital to ensuring the safety of our citizens.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We must know the identity of all visitors who enter the United States, and we must know when they leave.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The US-VISIT system, which uses biometric data to better track the entry and exit of foreign travelers, has been implemented at more than 115 airports and is presently being implemented at land border crossings.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Reconnaissance cameras, border patrol agents, and unmanned aerial flights have all been increased at our borders.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We must strengthen our Border Patrol to stop illegal crossings, and we will equip the Border Patrol with the tools, technologies, structures, and sufficient force necessary to secure the border.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We will seek stiff penalties for those who smuggle illegal aliens into the country and for those who sell fraudulent documents.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We urge continued support for state, local, and federal law enforcement to work in a cohesive manner in securing our borders to prevent illegal entry.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Most critical infrastructure is not federally owned or operated, requiring cooperation from all levels of government and private industry for effective protection.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "As part of a nationwide review of critical infrastructure initiated by President Bush, due to be completed by December 2004, the Department of Homeland Security has already identified the highest-risk chemical sites and partnered with industry to enhance protections at those sites.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We endorse the President's request to have the Department of Homeland Security establish minimum safety requirements at chemical plants and enforce compliance when voluntary measures are deemed inadequate.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "It is no secret that the enemies of the United States are determined to acquire and use biological and chemical weapons.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The potential exists for terrorists to use genetically engineered bioweapons that incorporate some of the deadliest diseases known to man, such as anthrax, ebola, smallpox, sarin, or ricin.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Such weapons are capable of inflicting grievous harm on any nation caught unprepared.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "For this reason, President George W. Bush has long made bolstering the nation's defenses against bioterrorism a central focus of his Administration.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022increase the federal bioterrorism budget by more than 1,600 percent, from $294 million in 2001 to $5. 2 billion in 2004;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022expand bioterror research by an even greater margin, from $53 million in 2001 to $1. 7 billion in 2005, an increase of more than 3,100 percent;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022increase the size of the Strategic National Stockpile of vaccines and countermeasures by 50 percent since 2001; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022further secure more than $5.5 billion to enhance the stockpile and to encourage the development of new vaccines and countermeasures.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Although there is no such thing as perfect safety from biological attacks, President Bush's historic commitment to building up the biological defenses of the United States has made us far less vulnerable to the threat of bioterrorism than we were just three years ago.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The President's continuing commitment to implement further biodefense projects holds the promise of an even more secure future.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Republicans recognize the critical new role played by the U.S. Coast Guard in upholding America's maritime security against terrorist threats.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our nation saw the dedication and the versatility of the Coast Guard in the aftermath of September 11, 2001 - a performance that demonstrated the Coast Guard's vital contribution to homeland security.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We applaud the men and women of the Coast Guard for rising to meet new challenges, even as they continue to accomplish traditional missions such as search and rescue, navigation assistance, drug interdiction, fisheries enforcement, and environmental protection.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We also applaud the Coast Guard men and women who serve and have served in the Persian Gulf and the Mediterranean in Operation Iraqi Freedom.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Under the leadership of President Bush and the Republican Congress, our nation has significantly increased budget support for the Coast Guard to achieve its expanded mission.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We affirm the importance of continued strong support, including for efforts to recapitalize and enlarge the Coast Guard's fleet, a critical component of our overall national fleet.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "This should not be done at the expense of or by in any way reducing the U.S. Navy's shipbuilding program.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our nation asks much of the men and women of the Coast Guard - uniformed warfighters who serve on the front line of the War on Terror.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We applaud the President and the Republican Congress for ensuring that the service has the resources needed to accomplish its expanded mission.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022deepen counterterrorism, intelligence, and law enforcement cooperation with allies and friends; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Republicans believe that intelligence - and how we use it - is our first line of defense against terrorists and the threat posed by hostile states.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The dedicated, hardworking men and women of our intelligence community are laboring every day to keep our country safe.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Republicans are proud of their work and grateful for their service.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "America's intelligence professionals have been pivotal to the major successes in the War on Terror - disrupting multiple planned terrorist attacks around the world, continuing to expand our insight into terrorist organizations and plans, and greatly enhancing working relationships with foreign partners.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Working together, the President and the Republican Congress have steadfastly advanced toward the goal of an integrated, unified national intelligence effort.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They have taken important steps to expand and strengthen America's intelligence system and capabilities, including reversing devastating cuts in the intelligence community budget and closing dangerous gaps between counterterrorism intelligence collected abroad and at home by creating the Terrorist Threat Integration Center and consolidating all U.S. government watchlist information on suspected terrorists in the new Terrorist Screening Center.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They have also broken down the unnecessary \\\"wall\\\" between intelligence and law enforcement with the PATRIOT Act.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Because it has proved to be instrumental in helping to break up terror cells and plots and seizing terrorist assets, Republicans believe that Congress needs to reauthorize this important law.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We applaud President Bush's continued strong leadership in intelligence reform.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022increasing both the quality and quantity of human intelligence collection to disrupt terrorist attacks;",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022investing more in our technical intelligence capabilities so that we stay ahead of our enemies' changing communications technology and tactics; and",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "\u2022 ensuring the most effective and coordinated use of these resources and personnel.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "It is essential that the people in government responsible for defending America and countering terrorism have the best possible information to make the best decisions about the safety of our country.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We therefore support President Bush's request to Congress to create the position of a National Intelligence Director to be appointed by the President with the advice and consent of the Senate.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The National Intelligence Director will serve as the President's principal intelligence advisor and will oversee the foreign and domestic activities of the intelligence community.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We also support President Bush's plan to establish a National Counterterrorism Center that will build on the analytical work of the Terrorist Threat Integration Center and become our government's knowledge bank for information about known and suspected terrorists.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The new center will coordinate and monitor counterterrorism plans and activities of all government agencies and departments to ensure effective joint action, and to ensure that our efforts are unified in priority and purpose.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The center will also be responsible for preparing the daily terrorism threat report for the President and senior officials.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We also support President Bush's judgment that legislative oversight of intelligence and homeland security must be restructured and made more effective.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Currently there are too many committees with overlapping jurisdiction, which wastes time and makes it difficult for meaningful oversight and reform.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We affirm traditional military culture, and we affirm that homosexuality is incompatible with military service.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The Republican Party created the all-volunteer force and opposes reinstitution of the draft, whether directly or through compulsory national service.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We support the advancement of women in the military, support their exemption from ground combat units, and support the implementation of the recommendations of the Kassebaum Commission, which unanimously recommended that co-ed basic training be ended.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We support sound priorities in the making of personnel policies, and candid analysis of the consequences of unprecedented social changes in the military.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The events of September 11, 2001, taught us that weak states, like Afghanistan, can pose as great a danger to our national interests as strong states.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Poverty does not make poor people into terrorists and murderers.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Yet poverty, weak institutions, and corruption can make weak states vulnerable to terrorist networks and drug cartels within their borders.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our efforts to expand the reach of economic and political freedom are complemented by our work in fostering religious liberty.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Republicans will continue to make the protection and promotion of religious freedom abroad a cardinal principle of our foreign policy.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "This reflects our national values and protects our national interests, and renders our actions in the world consistent with our ideals as a people.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "America is a working example of religious liberty, home to millions of Christians, Jews, Muslims, and people of many other faiths who live in harmony and contribute to our culture.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "In the President's words, \\\"It is not an accident that freedom of religion is one of the central freedoms in our Bill of Rights.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "It is the first freedom of the human soul\u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We must stand for that freedom in our country.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We must speak for that freedom in the world.\u201d",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We applaud President Bush's record of accomplishment in broadening the realm of liberty and promoting prosperity and opportunity in the world, and we endorse his vision for the future.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Any effort to address global social problems must be firmly placed within a context of respect for the fundamental social institutions of marriage and family.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We reject any treaty or convention that would contradict these values.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "For that reason, we support protecting the rights of families in international programs and oppose funding organizations involved in abortion.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "After fraudulent corporate practices rooted in the irrational exuberance of the late 1990s began to surface in the closing months of 2001, President Bush worked with the Congress to take decisive action to restore honesty and integrity to America's corporate boardrooms.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "In July 2002, President Bush signed the Sarbanes-Oxley Act, the most farreaching reform of American business practices since the 1940s.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Under this new law, CEOs and Chief Financial Officers are required to personally vouch for the truth and fairness of their companies' disclosures; for the first time, an independent board has been established to oversee the accounting profession; investigators have been given new tools to root out corporate fraud; and enhanced penalties are ensuring that dishonest corporate officials do hard time.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We applaud President Bush for vigorously enforcing the law to deter and punish further corporate abuses.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "He established an interagency Corporate Fraud Task Force to investigate and prosecute financial crimes; to recover the proceeds of those crimes; and to hold corporate criminals to account.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Since the Task Force was established two years ago, over 700 violators have been charged and over 300 convictions or guilty pleas secured, including more than 25 former CEOs.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "More than $1 billion in forfeited funds has also been recovered from corporate wrongdoers for return to defrauded creditors and investors.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Separately, the enforcement budget of the Securities and Exchange Commission (SEC) has more than doubled, and the SEC has issued new rules to ban latetrading and other fraudulent practices engaged in by certain mutual funds.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Thanks to swift and decisive action by President Bush and the Congress, Americans can trust that corporate executives who operate outside the law will be prosecuted.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Millions of Americans suffer from problem or pathological gambling that can destroy families.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We support legislation prohibiting gambling over the Internet or in student athletics by student athletes who are participating in competitive sports.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Community is more than just a set of streets and sidewalks and homes.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The strength of communities is the people who inhabit them, the American citizens who spend their days working, striving, and caring for their families, and advancing toward the realization of their dreams.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "To ensure that all Americans have an opportunity to build better lives, we must provide the framework in which communities can flourish.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "As the traditional advocate of America's veterans, the Republican Party has continued to fulfill America's obligations to them.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "When President Bush took office, many of the programs designed to assist veterans cried out for modernization and reform.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "President Bush and Congress have increased funding for VA health care by more than 40 percent since 2001.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "This additional funding has made it possible for the VA to improve health care access for veterans who need it most, including low-income veterans, those with service-related disabilities, and those who need VA's specialized services.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "President Bush signed into law authorization for the concurrent receipt of both military retired pay and VA disability compensation for combat-injured and highly-disabled veterans.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We support these actions to keep faith with America's veterans and applaud President Bush and the Republican Congress for attending to the solemn duty of maintaining and expanding our national cemeteries.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "\u2022 continuing to aid agricultural development.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "\u2022enforcing trade agreements and laws against unfair practices, including staunch opposition to regulations that impede farm exports and improved agriculture;",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "It is important to reaffirm that the war we wage against terrorists is not a battle of faiths.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "As the home to millions of Muslim believers, America welcomes the valuable role of Muslim leaders in promoting peace.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We recognize that acts of violence against innocents violate the fundamental tenets of the Islamic faith.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We are very concerned about the escalation of anti-Semitic violence worldwide, including in Europe.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "This violence has included physical assaults, use of weapons, arson of synagogues, and desecration of Jewish cemeteries and statues.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We are proud of President Bush's outspoken condemnation of anti-Semitism.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We share his conviction that anti-Semitism poisons public debates within democratic nations and that mankind must come together to fight such dark impulses.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "For the first time, more than half of all minorities own their home.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We support the President's goal of increasing the number of minority homeowners by at least 5. 5 million families by the end of the decade.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Since President Bush announced his initiative in 2002, an additional 1. 6 million minorities have become homeowners.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Because of the vital role of religious and fraternal benevolent societies in fostering charity and patriotism, they should not be subject to taxation.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We affirm the time-honored right of individuals to voluntarily participate in labor organizations and tobargain collectively.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We also believe that no American should be coerced into an association they do not wish to join.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "And no one should be kept out of a job for which they are qualified simply because they choose to remain independent of labor unions.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We therefore support the right of states to enact Right-to-Work laws.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Republicans respect the enormous sacrifices and commitment of the workers, including building tradesmen, who responded to the attacks of September 11th.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Thanks to their skill, courage, and patriotism, the very dangerous work at the World Trade Center and Pentagon was done remarkably quickly and without a single fatality.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We will always remember and honor the efforts of the rescue and recovery workers who dedicated countless hours to helping America recover.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "All American workers deserve workplaces that are safe, healthy, and fair.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "The President and Republican Congress have supported efforts to improve workplace safety without burdening businesses with costly and unnecessary regulations.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "And these efforts are showing results - overall workplace fatalities and injuries are at record low levels.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "American workers deserve fair wages for hours spent working overtime.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We are proud of the fact that 1. 3 million additional workers now have guaranteed overtime protections as a result of Republican efforts to modernize labor laws left untouched since 1949.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "For the first time ever, the regulations explicitly guarantee overtime protection to blue collar workers, police, firefighters, EMTs, factory workers, construction workers, and licensed practical nurses, among others.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "With clearly defined overtime rules that recognize the realities of the modern workforce, employees and employers will have a greater understanding of their rights and responsibilities.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Workers who pay dues through their workplace deserve to know how their dues are being used - especially when the money is being used to support political activity.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Republicans have enhanced financial disclosure requirements for political campaigns, corporations, and pension funds in order to bring about more transparency and accountability in the political system.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "And the Bush Administration improved union financial disclosure forms to offer union members more information about how their dues money is spent.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We encourage management and unions to find common ground thereby ensuring economic viability for both.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Men and women who retire after decades spent in the workforce are entitled to the pensions they and their employers have contributed to throughout their careers.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "As part of the 2001 economic growth and tax relief bill, workers' pension payments are now calculated on the basis of their best three years of earnings rather than their last three.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "This protects workers whose earnings decline with their age.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "In addition, criminal prosecutions against employers and plan trustees who abuse pension and health plans have increased by more than 50 percent since 2001.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "More than $3 billion has been secured through court judgments, settlements, and fines covering 150 million workers and their dependents by holding those who manage benefit plans accountable for their legal obligations to protect plan participants.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Thanks to Republican efforts to enforce the law, the word is getting out that benefits managers should invest and manage employees' retirement funds as carefully as they would handle their own.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Republicans recognize the historical federal health care promise made to coal industry retirees.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "The Party will seek to ensure that health care needs of \\\"orphan retirees\\\" in the coal industry will be covered and will seek to ensure the continuation of those benefits.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Disparities in health and health care based upon race, ethnicity, socio-economic status, or geography are unacceptable.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Historically, African Americans, Hispanics, Asian Americans, Pacific Islanders, American Indians, and Alaska Natives have experienced poorer health outcomes and received lower-quality care than the majority of Americans.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "For example, infant mortality rates are twice as high among African Americans as whites, and African American children are twice as likely to have asthma and six times as likely to die from asthma as white children.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "The prevalence of HIV/AIDS in Latino populations is four times higher than among whites while the prevalence among African Americans is nine times higher than that of whites.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "In addition, Hispanics are nearly twice as likely to die from diabetes as whites, and African American adults are almost twice as likely to die from heart disease as whites.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "There is also strong evidence that people living in rural and other non-metropolitan areas, regardless of their race or ethnicity, are more likely to experience access problems and poorer health outcomes.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Republicans are committed to addressing these health and health care disparities.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Progress has been made in recent years in a number of areas, including enhancement of federal research on health disparities, identification of barriers to care for our increasingly diverse population, expansion of the number of health professionals who are committed to serving minority and underserved patients and their communities, and improvement in the quality of care for uninsured and underserved populations.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Republicans believe we must build on this success and increase these efforts.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We strongly support initiatives to improve the quality of care delivered to all Americans.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We applaud President Bush for supporting treatment of mental illness.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Mental and physical illness should be treated equitably and fairly.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "In addition, we support improved training for health providers, including efforts to improve communication, collaboration, and understanding between patients and doctors.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We are funding research to find cures and treatments for illnesses that disproportionately affect minority populations, as well as targeted, well-coordinated programs to prevent, manage, and treat these diseases.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We support efforts to encourage qualified minorities to enter the fields of science and medicine.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "As Americans, we must honor our commitment to the 25 million veterans in the United States.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "America is dedicated to honoring its commitment to these patriots.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "Veterans have helped shape the American character, and their service represents the highest form of national service.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "President Bush and Congress have increased funding for veterans services, including substantial increases in Veterans' Administration (VA) health care funding.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "This additional funding has made it possible for the VA to improve health care access for veterans who need it most, including low-income veterans, those with service-connected disabilities, and those who need VA's specialized services.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "President Bush has twice signed legislation effectively providing \\\"concurrent receipt\\\" of both military retiree pay and VA disability compensation for combat-injured and highlydisabled veterans, thus reversing a century-old law preventing concurrent receipts.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "In addition, President Bush has fulfilled his promise to cut the disability claims backlog that existed when he took office and reduce waiting times for veterans seeking initial medical care.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We support more care to more veterans in more places where they need it most.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We also applaud the President's efforts to maintain and expand our national cemeteries.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "And with World War II veterans dying at the rate of 4,000 a day, we note with great appreciation the opening of the nation's World War II Memorial in Washington, D.C.",
+        "label": "Social Groups"
+    }
+]

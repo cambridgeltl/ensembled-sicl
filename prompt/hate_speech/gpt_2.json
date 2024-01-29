@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\nCategorize the sentiment of <INPUT> as either \"hate,\" \"neutral,\" or \"support,\" with the assigned label being ",
+  "example_template": "Categorize the sentiment of <INPUT> as either \"hate,\" \"neutral,\" or \"support,\" with the assigned label being <LABEL>.",
+  "input_template": ": <SENTENCE>\n"
+}

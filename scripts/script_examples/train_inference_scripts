@@ -1,0 +1,54 @@
+############################# zero-shot #############################
+python train_ft.py \
+--do_predict \
+--mode ft \
+--model google/flan-t5 \
+--model_version large \
+--data sst5 \
+--task sst5 \
+--input_format sst5 \
+--seed ${SEED} \
+--train_size 50 \
+--with_logprob
+
+############################# icl #############################
+python train_ft.py \
+--do_predict \
+--mode icl \
+--model google/flan-t5 \
+--model_version large \
+--data sst5 \
+--task sst5 \
+--input_format sst5 \
+--seed 21 \
+--train_size 50 \
+--with_logprob \
+--output OUTPUT_PATH
+
+############################# FT #############################
+python train_ft.py \
+--do_train \
+--do_predict \
+--mode ft \
+--model google/flan-t5 \
+--model_version large \
+--data sst5 \
+--task sst5 \
+--input_format sst5 \
+--seed ${SEED} \
+--train_size 50 \
+--with_logprob
+
+############################# SupICL #############################
+python train_ft.py \
+--do_train \
+--do_predict \
+--mode supicl \
+--model google/flan-t5 \
+--model_version large \
+--data sst5 \
+--task sst5 \
+--input_format sst5 \
+--seed ${SEED} \
+--train_size 50 \
+--with_logprob

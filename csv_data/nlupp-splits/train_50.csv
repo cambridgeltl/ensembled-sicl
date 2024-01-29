@@ -1,0 +1,50 @@
+text,intents,slots
+i can't get into my account and the stupid pin doesn't work,"['pin', 'account', 'wrong_notworking_notshowing']",
+"That's right, I am coming in 3 days with my 3 sons and our dog.","['affirm', 'pets']","{'date_from': {'value': 'in 3 days', 'span': [26, 35], 'norm_value': {'day': 18, 'month': 3, 'year': 2022}}, 'kids': {'value': '3', 'span': [44, 45], 'norm_value': 3}, 'adults': {'value': 'I', 'span': [14, 15], 'norm_value': 1}}"
+i don't want to talk to you!,['handoff'],
+How much less did I spend on holiday on the current year?,"['transfer_payment_deposit', 'how_much', 'less_lower_before']","{'date_period': {'value': 'current year', 'span': [44, 56], 'norm_values': {'type': 'absolute', 'from': {'day': 1, 'month': 1, 'year': 2022}, 'to': {'day': 31, 'month': 12, 'year': 2022}}}, 'shopping_category': {'value': 'holiday', 'span': [29, 36], 'norm_value': 'holiday'}}"
+I want to book a king suite for the night of the 25th,"['make_open_apply_setup_get_activate', 'booking']","{'date_period': {'value': 'the night', 'span': [32, 41], 'norm_values': {'type': 'relative', 'days': 1}}, 'date_from': {'value': '25th', 'span': [49, 53], 'norm_value': {'day': 25, 'month': 3, 'year': 2022}}}"
+How can I find out the list of people who paid money to my account previous month?,"['how', 'transfer_payment_deposit', 'account']","{'date_period': {'value': 'previous month', 'span': [67, 81], 'norm_values': {'type': 'absolute', 'from': {'day': 1, 'month': 2, 'year': 2022}, 'to': {'day': 28, 'month': 2, 'year': 2022}}}}"
+having a jacuzzi is definitely more than what I expected,['room_ammenities'],
+14 April,,"{'date': {'value': '14 April', 'span': [0, 8], 'norm_value': {'day': 14, 'month': 4, 'year': 2022}}}"
+we have a restaurant booking listed under colisha for tomorrow night!,"['booking', 'restaurant', 'existing']","{'date': {'value': 'tomorrow', 'span': [54, 62], 'norm_value': {'day': 16, 'month': 3, 'year': 2022}}, 'time_period': {'value': 'night', 'span': [63, 68], 'norm_values': {'type': 'absolute', 'from': {'hour': 18, 'minute': 0}, 'to': {'hour': 0, 'minute': 0}}}, 'person_name': {'value': 'colisha', 'span': [42, 49], 'norm_value': 'colisha'}}"
+What additional my salary expenses have I made with m and s  in the last 2 months,"['transfer_payment_deposit', 'request_info', 'more_higher_after']","{'date_period': {'value': 'last 2 months', 'span': [68, 81], 'norm_values': {'type': 'absolute', 'from': {'day': 1, 'month': 1, 'year': 2022}, 'to': {'day': 1, 'month': 3, 'year': 2022}}}, 'company_name': {'value': 'm and s', 'span': [52, 59], 'norm_value': 'm and s'}, 'shopping_category': {'value': 'my salary', 'span': [16, 25], 'norm_value': 'my salary'}}"
+"yep, I asked for that numerous times","['affirm', 'request_info']",
+Has the price of family gone up,"['more_higher_after', 'request_info']","{'shopping_category': {'value': 'family', 'span': [17, 23], 'norm_value': 'family'}}"
+double room for a 3 night mid week getaway,,"{'date_period': {'value': '3 night', 'span': [18, 25], 'norm_values': {'type': 'relative', 'days': 3}}, 'rooms': {'value': 'double room', 'span': [0, 11], 'norm_value': 1}}"
+Can I kill my savings account? I haven't used it since Nov the 17th,"['cancel_close_leave_freeze', 'savings', 'account']","{'date_from': {'value': 'Nov the 17th', 'span': [55, 67], 'norm_value': {'day': 17, 'month': 11, 'year': 2022}}}"
+I hate this bank so much! I want to close my savings account right now,"['cancel_close_leave_freeze', 'savings', 'account']",
+does a loan interfere with my direct debits?,"['loan', 'direct_debit', 'request_info']",
+how long did I book that room for?,"['how_long', 'booking']",
+Is it important to have the same address for my current account and for my utility bills?,"['current', 'account', 'request_info']",
+"hello, please list my transactions from 1 45 a.m. to 5 to 7 evening","['greet', 'request_info', 'transfer_payment_deposit']","{'time_from': {'value': '1 45 a.m.', 'span': [40, 49], 'norm_value': {'hour': 1, 'minute': 45}}, 'time_to': {'value': '5 to 7 evening', 'span': [53, 67], 'norm_value': {'hour': 18, 'minute': 55}}}"
+"No, I want to open the account tomorrow or even earlier.","['deny', 'make_open_apply_setup_get_activate', 'account', 'less_lower_before']","{'date': {'value': 'tomorrow', 'span': [31, 39], 'norm_value': {'day': 16, 'month': 3, 'year': 2022}}}"
+"hello, I had problems with my debit card all day yesterday","['wrong_notworking_notshowing', 'card', 'greet', 'debit']","{'date': {'value': 'yesterday', 'span': [49, 58], 'norm_value': {'day': 14, 'month': 3, 'year': 2022}}}"
+dont feel offended I don't feel comfortable sharing my personal details with a machine,['handoff'],
+I'll be coming on Thursday,,"{'date_from': {'value': 'Thursday', 'span': [18, 26], 'norm_value': {'day': 17, 'month': 3, 'year': 2022}}}"
+"No, it's not a mortgage","['mortgage', 'deny']",
+What happened with that refund which should have arrived last week Monday?,"['request_info', 'refund']","{'date': {'value': 'last week Monday', 'span': [57, 73], 'norm_value': {'day': 7, 'month': 3, 'year': 2022}}}"
+"My card has been rejected again, and I really want to freeze it this time.","['cancel_close_leave_freeze', 'wrong_notworking_notshowing', 'card']",
+It's new,['new'],
+A room for one for one night on the 9 Dec,"['make_open_apply_setup_get_activate', 'booking']","{'date_period': {'value': 'one night', 'span': [19, 28], 'norm_values': {'type': 'relative', 'days': 1}}, 'date_from': {'value': '9 Dec', 'span': [36, 41], 'norm_value': {'day': 9, 'month': 12, 'year': 2022}}, 'adults': {'value': 'one', 'span': [11, 14], 'norm_value': 1}, 'rooms': {'value': 'A room', 'span': [0, 6], 'norm_value': 1}}"
+"Thank you, I'm looking forward to the appointment","['appointment', 'thank']",
+i havent made any payment like that lately!,"['wrong_notworking_notshowing', 'deny', 'transfer_payment_deposit']",
+"good bye, see you",['end_call'],
+is the pool open before quarter to 9,"['swimming_pool', 'less_lower_before']","{'time': {'value': 'quarter to 9', 'span': [24, 36], 'norm_value': {'hour': 8, 'minute': 45}}}"
+I want to do my nails tomorrow evening,"['booking', 'spa', 'make_open_apply_setup_get_activate']","{'date': {'value': 'tomorrow', 'span': [22, 30], 'norm_value': {'day': 16, 'month': 3, 'year': 2022}}, 'time_period': {'value': 'evening', 'span': [31, 38], 'norm_values': {'type': 'absolute', 'from': {'hour': 18, 'minute': 0}, 'to': {'hour': 0, 'minute': 0}}}}"
+I have lost my debit card,"['debit', 'lost_stolen', 'card']",
+Bring some wine to my room in 45 minutes!,"['room_service', 'make_open_apply_setup_get_activate']","{'time': {'value': 'in 45 minutes', 'span': [27, 40], 'norm_value': {'hour': 9, 'minute': 45}}}"
+I can't see my transfer that i made last week! Can you tell me if it made through?,"['wrong_notworking_notshowing', 'request_info', 'transfer_payment_deposit']","{'date_period': {'value': 'last week', 'span': [36, 45], 'norm_values': {'type': 'absolute', 'from': {'day': 7, 'month': 3, 'year': 2022}, 'to': {'day': 13, 'month': 3, 'year': 2022}}}}"
+I have a reservation that I need to modify,"['change', 'booking']",
+i cant make it to the appointment before 11:10 morning on Sunday,"['appointment', 'deny', 'less_lower_before', 'make_open_apply_setup_get_activate']","{'time': {'value': '11:10 morning', 'span': [41, 54], 'norm_value': {'hour': 11, 'minute': 10}}, 'date': {'value': 'Sunday', 'span': [58, 64], 'norm_value': {'day': 20, 'month': 3, 'year': 2022}}}"
+3 nights from the 12th for a family of four,,"{'date_period': {'value': '3 nights', 'span': [0, 8], 'norm_values': {'type': 'relative', 'days': 3}}, 'date_from': {'value': '12th', 'span': [18, 22], 'norm_value': {'day': 12, 'month': 4, 'year': 2022}}, 'people': {'value': 'four', 'span': [39, 43], 'norm_value': 4}}"
+how  do I do that?,['how'],
+I was wondering if I could increase my overdraft limit,"['overdraft', 'change', 'limits', 'more_higher_after', 'request_info']",
+show my transactions between the 1st to the 7 June,"['request_info', 'transfer_payment_deposit']","{'date_from': {'value': '1st', 'span': [33, 36], 'norm_value': {'day': 1, 'month': 4, 'year': 2022}}, 'date_to': {'value': '7 June', 'span': [44, 50], 'norm_value': {'day': 7, 'month': 6, 'year': 2022}}}"
+"Can you tell me the exact time of my latest transaction to daryl bingham, from this evening?","['when', 'transfer_payment_deposit']","{'time_period': {'value': 'evening', 'span': [84, 91], 'norm_values': {'type': 'absolute', 'from': {'hour': 18, 'minute': 0}, 'to': {'hour': 0, 'minute': 0}}}, 'person_name': {'value': 'daryl bingham', 'span': [59, 72], 'norm_value': 'daryl bingham'}}"
+a regular amount paid on a specific date,['standing_order'],
+"no, I meant 4004$","['change', 'deny']","{'amount_of_money': {'value': '4004$', 'span': [12, 17], 'norm_value': {'amount': 4004.0, 'currency': 'USD'}}}"
+It is an international payment indeed,"['international', 'transfer_payment_deposit']",
+I need to amend my reservation,"['change', 'booking']",
+"I made a transfer to adrien balcom I think 7 days ago, but I don't see it anywhere","['transfer_payment_deposit', 'wrong_notworking_notshowing']","{'date': {'value': '7 days ago', 'span': [43, 53], 'norm_value': {'day': 8, 'month': 3, 'year': 2022}}, 'person_name': {'value': 'adrien balcom', 'span': [21, 34], 'norm_value': 'adrien balcom'}}"
+it seems that electricity is down,['wrong_notworking_notshowing'],

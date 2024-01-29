@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\n<INPUT>\nAmong \"other\", \"external\", \"democracy\", \"political\", \"economy\", \"welfare\", \"fabric\", \"group\", the sentence's US societal category is ",
+  "example_template": "<INPUT>\nAmong \"other\", \"external\", \"democracy\", \"political\", \"economy\", \"welfare\", \"fabric\", \"group\", the sentence's US societal category is <LABEL>",
+  "input_template": ": <SENTENCE>\n"
+}

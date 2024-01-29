@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\nDetermine the emotional tone of <INPUT>, categorizing it as \"hate,\" \"neutral,\" or \"support,\" and mark the sentiment as ",
+  "example_template": "Determine the emotional tone of <INPUT>, categorizing it as \"hate,\" \"neutral,\" or \"support,\" and mark the sentiment as <LABEL>.",
+  "input_template": ": <SENTENCE>\n"
+}

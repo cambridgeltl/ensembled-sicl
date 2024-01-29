@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\n<INPUT>\nGiven the premise, is the hypothesis entailed? \n",
+  "example_template": "<INPUT>\nGiven the premise, is the hypothesis entailed? \n<LABEL>",
+  "input_template": "<SENTENCE>"
+}

@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\n<INPUT>\nA: ",
+  "example_template": "<INPUT>\nA: <LABEL>",
+  "input_template": "How would a typical person answer each of the questions about causation? \nQ: <SENTENCE>\n"
+}

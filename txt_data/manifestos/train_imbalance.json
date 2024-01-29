@@ -1,0 +1,330 @@
+[
+    {
+        "sentence": "One hundred and fifty years ago, Americans who had gathered to protest the expansion of slavery gave birth to a political Party that would save the Union - the Republican Party.",
+        "label": "Other"
+    },
+    {
+        "sentence": "In 1860, Abraham Lincoln of Illinois carried the Republican banner in the Presidential election and was elected the Party's first President.",
+        "label": "Other"
+    },
+    {
+        "sentence": "He became our nation's greatest leader \u2026 and one of our Party's greatest heroes.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Every day, we strive to fulfill Lincoln's vision: a country united and free, in which all people are guaranteed equal rights and the opportunity to pursue their dreams.",
+        "label": "Other"
+    },
+    {
+        "sentence": "His legacy goes beyond the borders of America.",
+        "label": "Other"
+    },
+    {
+        "sentence": "It can be seen in free governments all over the world.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Lincoln's successors have been united by a common purpose - defending freedom at home and promoting it abroad.",
+        "label": "Other"
+    },
+    {
+        "sentence": "Thanks to President Bush's leadership, the skill of the American military, and the commitment of our allies, today there are more than 50 million newly free people in the nations of Afghanistan and Iraq - and America is safer.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Before entering office, President Bush recognized that our age is a time of opportunity for America - opportunity to translate this moment of influence into decades of peace, prosperity, and liberty.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "That conviction is in the finest traditions of the Republican Party.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "As our platform said in 1984, during the height of Cold War confrontation: \\\"The supreme purpose of our foreign policy must be to maintain our freedom in a peaceful international environment in which the United States and our allies and friends are secure against military threats, and democratic governments are flourishing in a world of increasing prosperity.\u201d",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "The reality of 9/11 does not diminish our generation's opportunity to advance the cause of freedom but in fact makes it all the more important that we take up that challenge.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "President Bush has rallied America to its calling - to make the world safer and better.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "This calling is answered by a distinctly American internationalism that reflects the union of our values and our national interests.",
+        "label": "External Relations"
+    },
+    {
+        "sentence": "Republicans support President Bush's steadfast commitment to the goal of a lasting, democratic peace, in which all nations are free from the threat of sudden terror.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "\u2022There is no negotiation with terrorists.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "No form of therapy or coercion will turn them from their murderous ways.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Only total and complete destruction of terrorism will allow freedom to flourish.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "We will extend the peace by supporting the rise of democracy, and the hope and progress that democracy brings, as the alternative to hatred and terror in the broader Middle East.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "In democratic societies, men and women do not swear allegiance to malcontents and murderers; they turn their hearts and labor to building better lives.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "Democratic governments do not shelter terrorist camps or attack their neighbors.",
+        "label": "Freedom and Democracy"
+    },
+    {
+        "sentence": "President Bush has confronted unprecedented challenges, including a world scarred by terrorism.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President and the American people have risen to the occasion by acting on a bold new statement of America's place and purpose in the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "Today, we are filled with hope for the most dramatic advance of liberty in 60 years.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "President Bush's leadership is rooted in the timeless values that have made America a unique and exalted nation: respect for individual rights; a deep commitment to freedom; a desire to serve as a living example of the power of democracy.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President's leadership has achieved successes once deemed impossible to realize in so short a period of time.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "His forward-looking strategy for freedom and peace is making progress in every part of the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "The President and Republicans in Congress recognize that new threats demand new tools and new methods for defending America and promoting our goals in the world.",
+        "label": "Political System"
+    },
+    {
+        "sentence": "President Bush worked with Congress to lower taxes, so Americans can keep more of their own hard-earned money to spend, save, or invest, thereby growing our economy and putting people back to work.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "on expanding opportunities for ownership and investment \u2026",
+        "label": "Economy"
+    },
+    {
+        "sentence": "on making tax relief permanent and ensuring greater energy independence \u2026",
+        "label": "Economy"
+    },
+    {
+        "sentence": "on increasing the affordability and accessibility of health care \u2026",
+        "label": "Economy"
+    },
+    {
+        "sentence": "and on helping workers adjust to a changing economy by offering flexible training options that meet their individual needs.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "because a vibrant entrepreneurial spirit will keep our economy strong and provide more opportunities for workers and families.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "because America can compete with anyone, anywhere, thanks to our entrepreneurs and risk-takers who keep us on the cutting edge of technology and commerce.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans applaud President Bush for launching groundbreaking efforts to address the needs and hopes of the world's poor, cutting across traditional boundaries to focus on what works.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We agree with President Bush that the United States must use this moment of opportunity to extend the benefits of freedom across the globe - by actively working to bring the hope of democracy, development, free markets, and free trade to every corner of the world.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans know that a strong world economy enhances our national security by advancing prosperity and freedom in the rest of the world.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Economic growth supported by free trade and free markets creates new jobs and higher incomes.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "It allows people to lift their lives out of poverty, spurs economic and legal reform, enhances the fight against corruption, and reinforces the habits of liberty.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Under Republican leadership, the United States has fostered an environment of economic openness to capitalize on our country's greatest asset in the information age: a vital, innovative society that welcomes creative ideas and adapts to them.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "American companies continue to show the world innovative ways to improve productivity and redraw traditional business models.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Upon this extraordinary foundation, President Bush and the Republican Congress have rebuilt an effective American trade policy.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Rooted in America's political and economic ideals, the Republican blueprint they have implemented promotes open markets and open societies, free trade and the free flow of information, and the development of new ideas and private sectors.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "This self-sustaining economic and commercial progress has nurtured the human spirit, the middle class, law, and liberty.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "Republicans applaud the renewal of the executive-Congressional partnership on trade matters under Republican leadership.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "After a gap of eight years, the Administration reestablished majority support in the Congress for free and fair trade by passing Trade Promotion Authority and the other market-opening measures for developing countries in the Trade Act of 2002.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "We commend the strong record of President Bush and the Republican Congress in using their authority to promote economic growth and economic freedom beyond America's shores, especially through free trade initiatives.",
+        "label": "Economy"
+    },
+    {
+        "sentence": "He worked with Congress to strengthen Medicare by adding a prescription drug benefit and giving seniors more choices to meet their individual health care needs.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "And the President worked with Congress to pass historic education reforms to ensure that every child can read.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Today, higher standards and stronger accountability are getting results in classrooms across America.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "on preparing students for success in life by bringing the benefits of education reform to high schools \u2026",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "Ownership gives citizens a vital stake in their communities and their country.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "By expanding ownership, we will help turn economic growth into lasting prosperity.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "As Republicans, we trust people to make decisions about how to spend, save, and invest their own money.",
+        "label": "Welfare and Quality of Life"
+    },
+    {
+        "sentence": "When America was struck by terrorists on September 11, 2001, President Bush immediately realized that it was an act of war, not just a crime.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Working with Congress, the President drew up plans to take the fight to the enemy, vowing to bring the terrorists to justice, or bring justice to the terrorists.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "And together, the President and Congress took steps to help the wounded, honor the dead, and secure our homeland.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our plans focus on ensuring that America remains safe, terrorists are defeated, and democracy flourishes in the world \u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "on promoting works of compassion and strengthening our greatest values \u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Winning the War on Terror \u2026",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "because our government's most solemn duty is to keep its citizens safe.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "because our children deserve to grow up in an America in which all their hopes and dreams can come true.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "because we respect the family's role as a touchstone of stability and strength in an everchanging world.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "The President continues to lead a steady, confident, systematic campaign to defend America against the dangers of our time.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We are going after terrorists wherever they plot and plan and hide, changing the old course of pinprick strikes that did little to get at the root of terrorism.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We eliminated many of al Qaeda's key leaders and put the world on notice that nations that train, harbor, or finance terrorists are just as guilty as the terrorists themselves.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "We will not allow the world's most dangerous regimes to possess the world's most dangerous weapons.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Our message is getting through, as indicated by Libya's leader, who decided to turn over his weapons of mass destruction and cooperate with the international community.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "Today, because America has acted, and because America has led, the forces of terror and tyranny have suffered defeat after defeat, and America and the world are safer.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "On September 11, 2001, we saw the cruelty of the terrorists, and we glimpsed the future they intend for us.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They intend to strike the United States to the limits of their power.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "They seek weapons of mass destruction to kill Americans on an even greater scale.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "This danger is increased when outlaw regimes build or acquire weapons of mass destruction and maintain ties to terrorist groups.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "On September 11, 2001, we saw the spirit of courage and optimism of the American people - that greatest assurance of the ultimate triumph of our cause.",
+        "label": "Fabric of Society"
+    },
+    {
+        "sentence": "As the traditional advocate of America's veterans, the Republican Party has continued to fulfill America's obligations to them.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "When President Bush took office, many of the programs designed to assist veterans cried out for modernization and reform.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "President Bush and Congress have increased funding for VA health care by more than 40 percent since 2001.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "This additional funding has made it possible for the VA to improve health care access for veterans who need it most, including low-income veterans, those with service-related disabilities, and those who need VA's specialized services.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "President Bush signed into law authorization for the concurrent receipt of both military retired pay and VA disability compensation for combat-injured and highly-disabled veterans.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "We support these actions to keep faith with America's veterans and applaud President Bush and the Republican Congress for attending to the solemn duty of maintaining and expanding our national cemeteries.",
+        "label": "Social Groups"
+    },
+    {
+        "sentence": "\u2022 continuing to aid agricultural development.",
+        "label": "Social Groups"
+    }
+]

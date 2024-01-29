@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\nEvaluate the sentiment expressed by <INPUT>, placing it in the categories of \"terrible,\" \"bad,\" \"neutral,\" \"good,\" or \"great,\" and indicate the sentiment as ",
+  "example_template": "Evaluate the sentiment expressed by <INPUT>, placing it in the categories of \"terrible,\" \"bad,\" \"neutral,\" \"good,\" or \"great,\" and indicate the sentiment as <LABEL>",
+  "input_template": ": <SENTENCE>\n"
+}

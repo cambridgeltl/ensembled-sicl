@@ -1,0 +1,5 @@
+{
+  "template": "<EXAMPLE_PAIRS>\n\n<INPUT>\nAmong \"terrible\", \"bad\", \"neutral\", \"good\" or \"great\", the sentence's sentiment is ",
+  "example_template": "<INPUT>\nAmong \"terrible\", \"bad\", \"neutral\", \"good\" or \"great\", the sentence's sentiment is <LABEL>",
+  "input_template": ": <SENTENCE>\n"
+}
